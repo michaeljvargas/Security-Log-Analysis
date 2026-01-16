@@ -1,0 +1,1282 @@
+timestamp,username,source_ip,location,device,event_type
+2026-01-12 14:49:17,rima,198.51.100.23,Unknown,Windows-10,SUCCESS
+2026-01-15 00:43:17,mvargas,203.0.113.5,"Berlin, DE",Windows-10,FAILED
+2026-01-11 09:01:17,mvargas,192.168.1.10,"Mexico City, MX",Android,SUCCESS
+2026-01-09 23:10:17,guest,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-11 11:21:17,finance1,172.16.0.9,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 10:43:17,mvargas,10.0.0.8,"Salt Lake City, US",Linux,FAILED
+2026-01-12 05:28:17,helpdesk,10.0.0.8,"Berlin, DE",Windows-10,SUCCESS
+2026-01-15 07:23:17,finance2,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-11 01:42:17,admin,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 14:40:17,guest,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-12 12:10:17,helpdesk,45.33.32.156,"Mexico City, MX",iPhone,SUCCESS
+2026-01-10 23:29:17,finance1,10.0.0.8,"Salt Lake City, US",Linux,SUCCESS
+2026-01-14 13:35:17,admin,172.16.0.9,"Mexico City, MX",iPhone,SUCCESS
+2026-01-09 18:23:17,mvargas,45.33.32.156,"Mexico City, MX",MacOS,FAILED
+2026-01-10 15:54:17,helpdesk,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-15 06:47:17,guest,203.0.113.5,"London, UK",Unknown,SUCCESS
+2026-01-14 14:01:17,guest,198.51.100.23,"Salt Lake City, US",Windows-10,FAILED
+2026-01-14 07:51:17,finance1,172.16.0.9,"Salt Lake City, US",Windows-10,FAILED
+2026-01-12 10:56:17,finance1,45.33.32.156,Unknown,Android,SUCCESS
+2026-01-13 07:44:17,finance1,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 21:13:17,mvargas,198.51.100.23,"Salt Lake City, US",MacOS,FAILED
+2026-01-10 09:43:17,finance1,10.0.0.8,"Mexico City, MX",Android,FAILED
+2026-01-14 13:58:17,mvargas,10.0.0.8,"Mexico City, MX",Android,SUCCESS
+2026-01-10 11:47:17,finance2,198.51.100.23,"Berlin, DE",iPhone,FAILED
+2026-01-13 00:22:17,finance1,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-10 15:42:17,rima,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-15 15:16:17,rima,203.0.113.5,"London, UK",Windows-10,SUCCESS
+2026-01-15 00:22:17,admin,45.33.32.156,"Berlin, DE",iPhone,FAILED
+2026-01-14 19:09:17,guest,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-15 07:07:17,helpdesk,198.51.100.23,"Mexico City, MX",Android,SUCCESS
+2026-01-13 11:44:17,mvargas,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-10 04:25:17,admin,45.33.32.156,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-10 15:42:17,guest,192.168.1.10,"London, UK",Linux,SUCCESS
+2026-01-11 07:11:17,guest,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-12 21:15:17,guest,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-14 11:40:17,helpdesk,198.51.100.23,"Mexico City, MX",iPhone,SUCCESS
+2026-01-10 02:18:17,finance1,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-10 18:29:17,guest,192.168.1.10,"New York, US",Linux,SUCCESS
+2026-01-15 02:43:17,mvargas,45.33.32.156,"London, UK",Unknown,FAILED
+2026-01-11 21:42:17,guest,203.0.113.5,"New York, US",iPhone,FAILED
+2026-01-14 23:49:17,guest,45.33.32.156,"London, UK",Unknown,SUCCESS
+2026-01-11 03:41:17,finance2,10.0.0.8,"Mexico City, MX",Unknown,FAILED
+2026-01-11 04:59:17,guest,198.51.100.23,"London, UK",Unknown,SUCCESS
+2026-01-09 06:01:17,finance2,203.0.113.5,"Mexico City, MX",iPhone,SUCCESS
+2026-01-15 19:38:17,admin,198.51.100.23,Unknown,iPhone,FAILED
+2026-01-13 01:58:17,mvargas,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 18:37:17,rima,198.51.100.23,"Berlin, DE",Linux,FAILED
+2026-01-14 09:19:17,finance1,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-10 07:08:17,helpdesk,172.16.0.9,"New York, US",Android,FAILED
+2026-01-13 20:53:17,finance2,172.16.0.9,"London, UK",Windows-10,FAILED
+2026-01-13 10:29:17,helpdesk,198.51.100.23,Unknown,Windows-10,FAILED
+2026-01-10 20:49:17,rima,192.168.1.10,"New York, US",Linux,FAILED
+2026-01-10 14:18:17,guest,45.33.32.156,"Mexico City, MX",Unknown,FAILED
+2026-01-10 16:58:17,guest,45.33.32.156,"New York, US",Windows-10,SUCCESS
+2026-01-10 02:27:17,guest,172.16.0.9,"New York, US",Android,FAILED
+2026-01-11 03:35:17,finance2,10.0.0.8,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-14 15:15:17,rima,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-10 10:11:17,mvargas,172.16.0.9,"London, UK",Android,FAILED
+2026-01-14 19:30:17,helpdesk,45.33.32.156,"New York, US",Linux,SUCCESS
+2026-01-14 17:48:17,mvargas,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-10 15:18:17,rima,10.0.0.8,"Mexico City, MX",Linux,FAILED
+2026-01-15 06:21:17,mvargas,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-14 10:09:17,finance2,192.168.1.10,"Berlin, DE",Windows-10,SUCCESS
+2026-01-12 02:01:17,mvargas,192.168.1.10,"Berlin, DE",Android,SUCCESS
+2026-01-09 15:42:17,helpdesk,203.0.113.5,"Berlin, DE",Linux,SUCCESS
+2026-01-11 04:51:17,finance1,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-14 08:56:17,guest,10.0.0.8,Unknown,Linux,FAILED
+2026-01-11 21:17:17,guest,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 09:32:17,helpdesk,203.0.113.5,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-09 18:22:17,rima,172.16.0.9,"London, UK",Windows-10,FAILED
+2026-01-10 16:34:17,finance1,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-10 11:52:17,helpdesk,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-14 11:27:17,rima,172.16.0.9,"New York, US",MacOS,FAILED
+2026-01-14 19:11:17,helpdesk,203.0.113.5,"Mexico City, MX",MacOS,SUCCESS
+2026-01-09 23:34:17,finance1,203.0.113.5,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-13 22:40:17,finance1,192.168.1.10,"Mexico City, MX",iPhone,SUCCESS
+2026-01-12 07:04:17,guest,192.168.1.10,"Salt Lake City, US",MacOS,FAILED
+2026-01-10 03:00:17,mvargas,203.0.113.5,"London, UK",Windows-10,FAILED
+2026-01-10 23:58:17,admin,10.0.0.8,"Mexico City, MX",Unknown,FAILED
+2026-01-11 21:01:17,helpdesk,10.0.0.8,"Berlin, DE",Linux,SUCCESS
+2026-01-12 15:42:17,mvargas,203.0.113.5,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-09 18:10:17,admin,192.168.1.10,Unknown,Windows-10,FAILED
+2026-01-09 21:16:17,guest,10.0.0.8,"Salt Lake City, US",iPhone,FAILED
+2026-01-14 02:18:17,mvargas,203.0.113.5,"Berlin, DE",Android,FAILED
+2026-01-11 23:32:17,guest,10.0.0.8,"Salt Lake City, US",Linux,FAILED
+2026-01-10 04:17:17,rima,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 11:35:17,finance1,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-14 14:57:17,finance1,10.0.0.8,"London, UK",iPhone,FAILED
+2026-01-11 18:47:17,mvargas,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-11 02:08:17,guest,198.51.100.23,"New York, US",Android,SUCCESS
+2026-01-13 20:24:17,finance1,198.51.100.23,"Berlin, DE",Android,FAILED
+2026-01-12 10:26:17,finance1,10.0.0.8,"New York, US",iPhone,SUCCESS
+2026-01-10 12:33:17,helpdesk,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 20:11:17,helpdesk,10.0.0.8,"Salt Lake City, US",Windows-10,FAILED
+2026-01-13 06:24:17,finance2,45.33.32.156,Unknown,iPhone,SUCCESS
+2026-01-12 06:25:17,mvargas,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-08 23:23:17,admin,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-09 07:48:17,admin,10.0.0.8,"London, UK",MacOS,SUCCESS
+2026-01-13 06:36:17,mvargas,198.51.100.23,"London, UK",Linux,FAILED
+2026-01-11 18:10:17,guest,192.168.1.10,"Salt Lake City, US",iPhone,FAILED
+2026-01-10 13:41:17,helpdesk,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-12 09:28:17,finance1,10.0.0.8,"Salt Lake City, US",Linux,FAILED
+2026-01-10 16:47:17,finance1,172.16.0.9,"Berlin, DE",Android,FAILED
+2026-01-14 13:20:17,rima,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-09 10:21:17,finance2,172.16.0.9,"Berlin, DE",Unknown,SUCCESS
+2026-01-14 16:26:17,rima,45.33.32.156,"Berlin, DE",Linux,FAILED
+2026-01-09 02:47:17,finance2,172.16.0.9,"Berlin, DE",Unknown,FAILED
+2026-01-11 13:11:17,mvargas,192.168.1.10,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-10 03:02:17,helpdesk,198.51.100.23,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 23:31:17,finance1,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-09 17:32:17,finance1,45.33.32.156,"Berlin, DE",Windows-10,FAILED
+2026-01-09 16:26:17,finance1,172.16.0.9,"Mexico City, MX",iPhone,FAILED
+2026-01-11 22:54:17,rima,172.16.0.9,"New York, US",MacOS,FAILED
+2026-01-14 04:06:17,helpdesk,198.51.100.23,"Salt Lake City, US",Android,FAILED
+2026-01-12 04:51:17,finance2,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 19:33:17,guest,10.0.0.8,"London, UK",iPhone,FAILED
+2026-01-12 09:31:17,guest,45.33.32.156,"New York, US",Windows-10,SUCCESS
+2026-01-14 11:03:17,admin,172.16.0.9,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-14 12:05:17,admin,172.16.0.9,"Berlin, DE",iPhone,SUCCESS
+2026-01-14 05:44:17,finance2,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-09 21:50:17,helpdesk,192.168.1.10,"London, UK",Android,SUCCESS
+2026-01-14 16:44:17,helpdesk,203.0.113.5,"Mexico City, MX",MacOS,FAILED
+2026-01-11 07:56:17,mvargas,45.33.32.156,"Salt Lake City, US",MacOS,FAILED
+2026-01-11 21:53:17,admin,10.0.0.8,"Berlin, DE",Unknown,SUCCESS
+2026-01-10 05:10:17,finance1,203.0.113.5,"New York, US",Android,FAILED
+2026-01-14 11:08:17,helpdesk,192.168.1.10,"New York, US",Windows-10,FAILED
+2026-01-14 01:29:17,helpdesk,203.0.113.5,Unknown,MacOS,SUCCESS
+2026-01-13 05:06:17,admin,192.168.1.10,"London, UK",Windows-10,SUCCESS
+2026-01-12 18:46:17,finance2,198.51.100.23,"Salt Lake City, US",MacOS,FAILED
+2026-01-12 05:32:17,admin,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 15:17:17,mvargas,203.0.113.5,"Mexico City, MX",iPhone,FAILED
+2026-01-12 03:01:17,mvargas,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-10 15:03:17,rima,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-13 04:20:17,finance2,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-15 05:43:17,guest,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-13 14:35:17,helpdesk,45.33.32.156,"New York, US",Unknown,FAILED
+2026-01-14 10:59:17,mvargas,45.33.32.156,"New York, US",MacOS,SUCCESS
+2026-01-12 20:14:17,admin,203.0.113.5,"London, UK",Unknown,FAILED
+2026-01-11 21:26:17,helpdesk,172.16.0.9,"New York, US",iPhone,SUCCESS
+2026-01-13 10:05:17,mvargas,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-14 15:05:17,finance2,198.51.100.23,"Berlin, DE",MacOS,SUCCESS
+2026-01-12 17:17:17,finance2,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-11 17:03:17,mvargas,10.0.0.8,"London, UK",Linux,SUCCESS
+2026-01-11 15:41:17,admin,203.0.113.5,"Berlin, DE",MacOS,FAILED
+2026-01-13 15:07:17,helpdesk,198.51.100.23,Unknown,Linux,SUCCESS
+2026-01-12 00:11:17,admin,192.168.1.10,"Mexico City, MX",iPhone,SUCCESS
+2026-01-13 00:44:17,rima,172.16.0.9,"Berlin, DE",Linux,SUCCESS
+2026-01-11 09:22:17,mvargas,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-14 00:08:17,helpdesk,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 07:38:17,guest,198.51.100.23,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-14 22:32:17,finance2,198.51.100.23,"Mexico City, MX",MacOS,FAILED
+2026-01-11 11:30:17,rima,10.0.0.8,"Berlin, DE",Unknown,SUCCESS
+2026-01-14 03:16:17,mvargas,45.33.32.156,"Salt Lake City, US",Windows-10,FAILED
+2026-01-11 13:54:17,guest,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-10 09:20:17,finance1,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-10 05:01:17,mvargas,192.168.1.10,"London, UK",Linux,FAILED
+2026-01-11 02:44:17,helpdesk,203.0.113.5,"New York, US",Linux,SUCCESS
+2026-01-15 01:10:17,admin,198.51.100.23,"London, UK",iPhone,SUCCESS
+2026-01-11 16:34:17,helpdesk,45.33.32.156,"New York, US",Linux,SUCCESS
+2026-01-13 14:51:17,finance1,172.16.0.9,"London, UK",Windows-10,SUCCESS
+2026-01-14 14:28:17,finance1,172.16.0.9,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-13 18:16:17,admin,10.0.0.8,"Mexico City, MX",Windows-10,FAILED
+2026-01-13 17:14:17,admin,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-12 06:09:17,finance1,45.33.32.156,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 05:07:17,admin,10.0.0.8,"New York, US",Android,SUCCESS
+2026-01-12 06:56:17,mvargas,45.33.32.156,"Mexico City, MX",Linux,SUCCESS
+2026-01-11 11:22:17,helpdesk,198.51.100.23,Unknown,Windows-10,FAILED
+2026-01-10 14:22:17,helpdesk,192.168.1.10,"New York, US",Windows-10,FAILED
+2026-01-10 13:09:17,helpdesk,192.168.1.10,Unknown,Windows-10,SUCCESS
+2026-01-14 01:10:17,finance1,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-10 19:37:17,admin,10.0.0.8,"New York, US",Unknown,FAILED
+2026-01-14 06:05:17,mvargas,203.0.113.5,Unknown,Unknown,SUCCESS
+2026-01-13 04:29:17,admin,198.51.100.23,"New York, US",Windows-10,SUCCESS
+2026-01-12 02:48:17,mvargas,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-11 07:02:17,helpdesk,203.0.113.5,"London, UK",Android,SUCCESS
+2026-01-14 07:41:17,rima,203.0.113.5,"Berlin, DE",Android,SUCCESS
+2026-01-13 01:51:17,finance1,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-13 12:55:17,mvargas,198.51.100.23,"Salt Lake City, US",Android,SUCCESS
+2026-01-09 15:19:17,admin,10.0.0.8,Unknown,Windows-10,FAILED
+2026-01-12 18:59:17,admin,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-12 12:49:17,admin,203.0.113.5,"Salt Lake City, US",Unknown,FAILED
+2026-01-09 16:14:17,mvargas,10.0.0.8,"Salt Lake City, US",Android,FAILED
+2026-01-14 05:34:17,finance2,198.51.100.23,"London, UK",Android,FAILED
+2026-01-10 10:38:17,helpdesk,10.0.0.8,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-10 15:43:17,guest,10.0.0.8,"London, UK",iPhone,SUCCESS
+2026-01-15 17:04:17,mvargas,45.33.32.156,"New York, US",Android,FAILED
+2026-01-11 17:55:17,helpdesk,192.168.1.10,Unknown,Windows-10,SUCCESS
+2026-01-15 03:06:17,admin,10.0.0.8,"Mexico City, MX",Windows-10,FAILED
+2026-01-11 22:43:17,guest,192.168.1.10,"New York, US",Windows-10,SUCCESS
+2026-01-14 00:27:17,rima,10.0.0.8,"New York, US",Android,SUCCESS
+2026-01-11 14:33:17,finance1,45.33.32.156,Unknown,Windows-10,FAILED
+2026-01-12 06:39:17,admin,203.0.113.5,"Berlin, DE",iPhone,SUCCESS
+2026-01-11 21:29:17,rima,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-10 16:16:17,admin,45.33.32.156,"New York, US",iPhone,SUCCESS
+2026-01-11 19:07:17,rima,45.33.32.156,"Berlin, DE",MacOS,SUCCESS
+2026-01-10 01:51:17,finance1,198.51.100.23,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-11 13:30:17,finance2,198.51.100.23,"London, UK",Windows-10,FAILED
+2026-01-11 13:59:17,mvargas,192.168.1.10,"New York, US",Linux,FAILED
+2026-01-15 13:39:17,rima,192.168.1.10,"London, UK",Linux,FAILED
+2026-01-14 01:02:17,guest,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-15 17:11:17,finance1,45.33.32.156,"London, UK",MacOS,SUCCESS
+2026-01-12 19:14:17,rima,192.168.1.10,"New York, US",iPhone,SUCCESS
+2026-01-11 05:57:17,finance2,192.168.1.10,"London, UK",Android,FAILED
+2026-01-11 00:57:17,guest,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 13:44:17,guest,198.51.100.23,"Salt Lake City, US",Android,SUCCESS
+2026-01-13 10:20:17,finance1,45.33.32.156,"New York, US",Unknown,SUCCESS
+2026-01-10 19:05:17,helpdesk,172.16.0.9,"London, UK",Android,FAILED
+2026-01-12 10:23:17,helpdesk,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-12 23:56:17,helpdesk,198.51.100.23,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-13 09:05:17,finance1,198.51.100.23,"New York, US",Windows-10,SUCCESS
+2026-01-10 17:09:17,helpdesk,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-13 01:59:17,helpdesk,10.0.0.8,"New York, US",Windows-10,SUCCESS
+2026-01-10 13:18:17,finance1,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-13 03:39:17,finance1,45.33.32.156,"New York, US",MacOS,SUCCESS
+2026-01-10 18:35:17,guest,10.0.0.8,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-11 04:17:17,admin,10.0.0.8,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 20:19:17,finance1,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-10 18:09:17,finance1,10.0.0.8,"Berlin, DE",Android,SUCCESS
+2026-01-11 03:57:17,finance2,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-13 11:33:17,guest,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-11 17:51:17,finance1,10.0.0.8,"Salt Lake City, US",Linux,FAILED
+2026-01-09 08:48:17,finance1,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 04:36:17,finance2,172.16.0.9,"London, UK",Unknown,SUCCESS
+2026-01-15 13:29:17,rima,198.51.100.23,"Mexico City, MX",Unknown,SUCCESS
+2026-01-14 15:54:17,helpdesk,10.0.0.8,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-14 12:03:17,helpdesk,10.0.0.8,"Mexico City, MX",Linux,FAILED
+2026-01-14 03:32:17,finance2,10.0.0.8,"Mexico City, MX",Android,SUCCESS
+2026-01-10 09:28:17,admin,198.51.100.23,"London, UK",Windows-10,FAILED
+2026-01-14 16:07:17,guest,172.16.0.9,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-09 20:51:17,finance1,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-14 16:00:17,helpdesk,172.16.0.9,"New York, US",Windows-10,FAILED
+2026-01-15 22:05:17,finance1,172.16.0.9,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 12:42:17,admin,10.0.0.8,Unknown,Unknown,FAILED
+2026-01-09 16:17:17,finance2,203.0.113.5,"Berlin, DE",iPhone,SUCCESS
+2026-01-15 21:56:17,admin,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-14 09:30:17,rima,45.33.32.156,"London, UK",Linux,SUCCESS
+2026-01-12 13:31:17,admin,192.168.1.10,"New York, US",MacOS,SUCCESS
+2026-01-12 02:21:17,finance1,203.0.113.5,"Mexico City, MX",MacOS,FAILED
+2026-01-11 22:34:17,mvargas,45.33.32.156,"Salt Lake City, US",Unknown,FAILED
+2026-01-14 02:06:17,guest,45.33.32.156,"Berlin, DE",Unknown,FAILED
+2026-01-10 02:57:17,admin,45.33.32.156,Unknown,Android,FAILED
+2026-01-13 03:50:17,admin,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-12 16:44:17,finance2,192.168.1.10,"Mexico City, MX",MacOS,SUCCESS
+2026-01-09 11:35:17,admin,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-15 14:22:17,finance1,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-11 10:55:17,rima,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-14 18:23:17,admin,192.168.1.10,"New York, US",Android,SUCCESS
+2026-01-09 10:50:17,mvargas,192.168.1.10,"Salt Lake City, US",Linux,SUCCESS
+2026-01-10 03:26:17,guest,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-12 08:38:17,guest,10.0.0.8,"New York, US",iPhone,SUCCESS
+2026-01-14 08:04:17,rima,10.0.0.8,"Salt Lake City, US",MacOS,FAILED
+2026-01-14 01:30:17,mvargas,192.168.1.10,Unknown,MacOS,FAILED
+2026-01-12 00:03:17,helpdesk,203.0.113.5,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-15 07:57:17,admin,45.33.32.156,Unknown,Linux,SUCCESS
+2026-01-14 19:44:17,finance1,198.51.100.23,"New York, US",MacOS,FAILED
+2026-01-09 10:24:17,mvargas,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-10 17:52:17,mvargas,192.168.1.10,"Salt Lake City, US",Linux,SUCCESS
+2026-01-11 04:15:17,rima,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-14 16:49:17,finance1,172.16.0.9,"Mexico City, MX",Linux,SUCCESS
+2026-01-12 10:52:17,mvargas,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-14 08:54:17,finance1,45.33.32.156,"Salt Lake City, US",Android,FAILED
+2026-01-14 05:26:17,mvargas,172.16.0.9,Unknown,Android,SUCCESS
+2026-01-10 03:08:17,admin,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-11 22:17:17,finance1,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-13 21:28:17,finance1,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-11 09:39:17,mvargas,45.33.32.156,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 14:52:17,finance2,172.16.0.9,"New York, US",MacOS,FAILED
+2026-01-12 15:39:17,rima,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-15 00:51:17,helpdesk,198.51.100.23,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 05:38:17,helpdesk,172.16.0.9,"New York, US",Linux,FAILED
+2026-01-11 08:16:17,helpdesk,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-10 21:14:17,rima,192.168.1.10,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-10 18:35:17,admin,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-10 12:11:17,finance1,172.16.0.9,Unknown,Windows-10,FAILED
+2026-01-09 11:08:17,mvargas,45.33.32.156,"London, UK",MacOS,FAILED
+2026-01-15 00:11:17,finance1,192.168.1.10,Unknown,Android,SUCCESS
+2026-01-11 06:34:17,rima,192.168.1.10,"Salt Lake City, US",Windows-10,FAILED
+2026-01-09 22:17:17,finance2,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-10 10:37:17,mvargas,172.16.0.9,"New York, US",iPhone,SUCCESS
+2026-01-13 18:06:17,admin,192.168.1.10,"London, UK",iPhone,FAILED
+2026-01-09 11:37:17,finance1,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-12 04:56:17,guest,172.16.0.9,"Salt Lake City, US",Android,SUCCESS
+2026-01-14 20:01:17,finance2,192.168.1.10,"London, UK",Android,FAILED
+2026-01-15 01:16:17,guest,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-12 04:48:17,rima,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-09 13:08:17,mvargas,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-11 00:47:17,helpdesk,45.33.32.156,"London, UK",Linux,SUCCESS
+2026-01-10 17:47:17,admin,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-10 04:24:17,finance1,192.168.1.10,"Mexico City, MX",Unknown,SUCCESS
+2026-01-10 02:57:17,finance1,203.0.113.5,"London, UK",Windows-10,SUCCESS
+2026-01-13 10:09:17,finance1,192.168.1.10,"Mexico City, MX",Unknown,SUCCESS
+2026-01-11 06:41:17,admin,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-13 05:58:17,finance1,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-15 19:42:17,finance1,192.168.1.10,"London, UK",Linux,SUCCESS
+2026-01-10 16:48:17,finance2,198.51.100.23,Unknown,Linux,FAILED
+2026-01-10 20:41:17,helpdesk,198.51.100.23,Unknown,iPhone,SUCCESS
+2026-01-10 08:49:17,admin,198.51.100.23,Unknown,Unknown,SUCCESS
+2026-01-11 02:42:17,admin,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-10 16:59:17,rima,172.16.0.9,"London, UK",Linux,SUCCESS
+2026-01-10 18:20:17,rima,203.0.113.5,"New York, US",iPhone,FAILED
+2026-01-10 02:11:17,rima,172.16.0.9,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-10 14:54:17,finance2,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-11 03:58:17,mvargas,172.16.0.9,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-13 08:26:17,helpdesk,192.168.1.10,"Salt Lake City, US",Android,FAILED
+2026-01-13 21:36:17,finance1,10.0.0.8,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 04:26:17,rima,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-11 16:33:17,finance2,198.51.100.23,Unknown,Linux,SUCCESS
+2026-01-13 17:24:17,finance2,10.0.0.8,Unknown,Unknown,FAILED
+2026-01-15 13:48:17,finance2,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-14 02:20:17,helpdesk,203.0.113.5,"London, UK",Unknown,FAILED
+2026-01-13 16:58:17,rima,198.51.100.23,Unknown,Unknown,SUCCESS
+2026-01-11 18:40:17,finance2,198.51.100.23,"Mexico City, MX",Android,SUCCESS
+2026-01-13 14:10:17,guest,172.16.0.9,Unknown,MacOS,FAILED
+2026-01-12 15:58:17,finance2,192.168.1.10,"Mexico City, MX",Android,FAILED
+2026-01-10 03:26:17,mvargas,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-11 04:57:17,guest,203.0.113.5,"Salt Lake City, US",Linux,SUCCESS
+2026-01-11 06:22:17,finance1,198.51.100.23,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 03:24:17,guest,203.0.113.5,"Mexico City, MX",Unknown,FAILED
+2026-01-11 07:46:17,finance1,10.0.0.8,"Mexico City, MX",Linux,FAILED
+2026-01-10 07:49:17,finance1,45.33.32.156,"London, UK",Unknown,SUCCESS
+2026-01-12 01:19:17,helpdesk,198.51.100.23,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-13 17:14:17,finance1,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-10 04:14:17,rima,203.0.113.5,Unknown,Android,FAILED
+2026-01-14 22:19:17,rima,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-09 17:12:17,finance2,172.16.0.9,"New York, US",Android,SUCCESS
+2026-01-11 12:06:17,finance2,10.0.0.8,"London, UK",Unknown,SUCCESS
+2026-01-13 15:15:17,helpdesk,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-14 06:34:17,admin,10.0.0.8,"London, UK",Unknown,SUCCESS
+2026-01-11 19:38:17,helpdesk,172.16.0.9,"New York, US",Android,SUCCESS
+2026-01-12 03:11:17,admin,10.0.0.8,Unknown,iPhone,SUCCESS
+2026-01-14 10:48:17,helpdesk,45.33.32.156,Unknown,Windows-10,FAILED
+2026-01-13 01:22:17,rima,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-15 08:34:17,admin,10.0.0.8,"Berlin, DE",iPhone,SUCCESS
+2026-01-09 02:29:17,finance1,192.168.1.10,"New York, US",Windows-10,FAILED
+2026-01-11 18:40:17,guest,192.168.1.10,"Berlin, DE",MacOS,FAILED
+2026-01-11 01:05:17,finance2,198.51.100.23,"London, UK",MacOS,SUCCESS
+2026-01-13 12:18:17,finance2,45.33.32.156,"New York, US",Linux,FAILED
+2026-01-15 20:31:17,finance2,192.168.1.10,Unknown,Linux,FAILED
+2026-01-12 07:30:17,rima,198.51.100.23,Unknown,MacOS,SUCCESS
+2026-01-13 22:09:17,finance1,192.168.1.10,"Berlin, DE",Windows-10,SUCCESS
+2026-01-11 14:20:17,finance2,10.0.0.8,"Mexico City, MX",Android,SUCCESS
+2026-01-14 10:39:17,helpdesk,10.0.0.8,Unknown,Android,SUCCESS
+2026-01-10 19:21:17,guest,45.33.32.156,Unknown,Windows-10,SUCCESS
+2026-01-12 13:58:17,helpdesk,172.16.0.9,"Berlin, DE",Android,FAILED
+2026-01-14 05:35:17,admin,198.51.100.23,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 00:48:17,finance1,172.16.0.9,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-12 16:38:17,finance2,192.168.1.10,"Berlin, DE",Android,SUCCESS
+2026-01-10 13:51:17,mvargas,10.0.0.8,Unknown,Android,SUCCESS
+2026-01-12 18:51:17,mvargas,172.16.0.9,"London, UK",iPhone,SUCCESS
+2026-01-14 21:54:17,guest,10.0.0.8,"London, UK",Android,SUCCESS
+2026-01-11 19:05:17,guest,192.168.1.10,"London, UK",iPhone,SUCCESS
+2026-01-14 13:13:17,helpdesk,203.0.113.5,"Berlin, DE",iPhone,FAILED
+2026-01-12 20:33:17,rima,172.16.0.9,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-12 12:59:17,finance1,203.0.113.5,"New York, US",Linux,FAILED
+2026-01-09 22:18:17,finance2,192.168.1.10,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 13:16:17,guest,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-09 00:05:17,mvargas,10.0.0.8,"Mexico City, MX",Linux,FAILED
+2026-01-09 14:49:17,finance2,45.33.32.156,"Berlin, DE",Linux,SUCCESS
+2026-01-10 14:33:17,finance1,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-09 21:03:17,rima,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-10 21:53:17,mvargas,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-10 01:52:17,finance1,192.168.1.10,"London, UK",MacOS,FAILED
+2026-01-15 07:53:17,finance1,203.0.113.5,"London, UK",MacOS,SUCCESS
+2026-01-12 13:21:17,mvargas,198.51.100.23,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 13:18:17,helpdesk,45.33.32.156,"Berlin, DE",Windows-10,FAILED
+2026-01-13 17:22:17,guest,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-13 08:06:17,guest,45.33.32.156,Unknown,MacOS,SUCCESS
+2026-01-13 15:01:17,guest,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-10 15:50:17,finance1,192.168.1.10,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-10 07:37:17,finance2,192.168.1.10,"New York, US",Windows-10,SUCCESS
+2026-01-09 03:15:17,admin,172.16.0.9,"Berlin, DE",MacOS,SUCCESS
+2026-01-11 01:34:17,mvargas,203.0.113.5,Unknown,Unknown,FAILED
+2026-01-10 13:56:17,finance1,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-14 14:24:17,helpdesk,172.16.0.9,"London, UK",Windows-10,FAILED
+2026-01-09 01:30:17,mvargas,192.168.1.10,Unknown,Unknown,FAILED
+2026-01-09 20:09:17,helpdesk,203.0.113.5,"London, UK",Unknown,SUCCESS
+2026-01-14 11:12:17,guest,192.168.1.10,"London, UK",iPhone,FAILED
+2026-01-13 22:12:17,helpdesk,172.16.0.9,"New York, US",MacOS,FAILED
+2026-01-10 06:16:17,admin,172.16.0.9,"New York, US",Unknown,FAILED
+2026-01-14 08:38:17,helpdesk,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-12 02:49:17,mvargas,45.33.32.156,Unknown,Unknown,FAILED
+2026-01-15 18:12:17,admin,45.33.32.156,Unknown,Windows-10,FAILED
+2026-01-15 18:33:17,finance2,203.0.113.5,"Berlin, DE",Android,FAILED
+2026-01-11 17:36:17,helpdesk,198.51.100.23,Unknown,Android,SUCCESS
+2026-01-11 14:23:17,finance2,198.51.100.23,"London, UK",Unknown,SUCCESS
+2026-01-11 22:13:17,admin,198.51.100.23,"New York, US",Linux,FAILED
+2026-01-09 09:56:17,admin,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-15 03:59:17,finance1,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-15 05:35:17,helpdesk,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-11 14:18:17,admin,45.33.32.156,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-11 06:48:17,admin,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-09 22:20:17,guest,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 20:40:17,admin,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-11 05:31:17,rima,10.0.0.8,"New York, US",Windows-10,SUCCESS
+2026-01-12 05:32:17,admin,45.33.32.156,"Berlin, DE",iPhone,SUCCESS
+2026-01-14 19:38:17,finance2,10.0.0.8,"New York, US",Windows-10,FAILED
+2026-01-14 13:05:17,admin,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-09 20:43:17,rima,203.0.113.5,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 20:14:17,guest,192.168.1.10,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-15 08:48:17,helpdesk,45.33.32.156,"Berlin, DE",MacOS,SUCCESS
+2026-01-12 02:48:17,helpdesk,192.168.1.10,"Mexico City, MX",Linux,FAILED
+2026-01-10 10:08:17,admin,192.168.1.10,"London, UK",MacOS,FAILED
+2026-01-13 05:40:17,mvargas,192.168.1.10,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-14 03:32:17,helpdesk,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-10 07:08:17,finance1,192.168.1.10,"London, UK",iPhone,SUCCESS
+2026-01-09 22:55:17,finance1,45.33.32.156,"Mexico City, MX",MacOS,SUCCESS
+2026-01-10 18:00:17,admin,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-11 20:16:17,admin,192.168.1.10,"Berlin, DE",Windows-10,FAILED
+2026-01-09 11:14:17,admin,45.33.32.156,Unknown,Unknown,SUCCESS
+2026-01-14 10:24:17,mvargas,192.168.1.10,"New York, US",iPhone,FAILED
+2026-01-11 04:43:17,finance1,172.16.0.9,"London, UK",Linux,SUCCESS
+2026-01-10 03:11:17,helpdesk,203.0.113.5,"London, UK",iPhone,SUCCESS
+2026-01-13 04:47:17,helpdesk,198.51.100.23,"New York, US",Android,SUCCESS
+2026-01-10 13:29:17,finance1,192.168.1.10,"Mexico City, MX",Unknown,FAILED
+2026-01-09 08:14:17,rima,10.0.0.8,"Salt Lake City, US",Linux,FAILED
+2026-01-10 12:33:17,finance2,198.51.100.23,"Salt Lake City, US",Android,FAILED
+2026-01-09 18:55:17,helpdesk,203.0.113.5,"London, UK",MacOS,SUCCESS
+2026-01-13 02:21:17,rima,203.0.113.5,"New York, US",Unknown,SUCCESS
+2026-01-14 01:39:17,guest,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 14:50:17,rima,10.0.0.8,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-12 07:22:17,admin,10.0.0.8,"London, UK",Android,SUCCESS
+2026-01-14 02:58:17,helpdesk,192.168.1.10,"New York, US",Linux,SUCCESS
+2026-01-11 08:03:17,guest,198.51.100.23,"London, UK",Windows-10,SUCCESS
+2026-01-11 05:27:17,admin,198.51.100.23,"London, UK",MacOS,FAILED
+2026-01-10 01:02:17,helpdesk,203.0.113.5,"Mexico City, MX",MacOS,SUCCESS
+2026-01-12 06:33:17,rima,172.16.0.9,"Salt Lake City, US",Android,FAILED
+2026-01-12 19:29:17,guest,10.0.0.8,"Mexico City, MX",Windows-10,FAILED
+2026-01-14 22:11:17,admin,10.0.0.8,"London, UK",Android,SUCCESS
+2026-01-13 14:04:17,rima,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-10 23:35:17,guest,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-09 20:02:17,finance2,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-12 01:11:17,rima,10.0.0.8,"New York, US",Linux,FAILED
+2026-01-11 02:52:17,guest,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-14 20:16:17,helpdesk,172.16.0.9,"Salt Lake City, US",Linux,FAILED
+2026-01-12 17:56:17,admin,172.16.0.9,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-14 08:32:17,rima,172.16.0.9,"London, UK",MacOS,SUCCESS
+2026-01-13 02:38:17,mvargas,10.0.0.8,Unknown,iPhone,SUCCESS
+2026-01-08 23:40:17,admin,45.33.32.156,"Mexico City, MX",Linux,SUCCESS
+2026-01-12 23:48:17,finance1,10.0.0.8,"London, UK",Unknown,FAILED
+2026-01-15 11:46:17,finance2,192.168.1.10,"London, UK",Windows-10,FAILED
+2026-01-14 13:30:17,helpdesk,45.33.32.156,"Salt Lake City, US",Linux,FAILED
+2026-01-10 11:05:17,mvargas,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-10 20:14:17,mvargas,203.0.113.5,"London, UK",Linux,FAILED
+2026-01-09 06:36:17,mvargas,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-09 03:13:17,finance2,45.33.32.156,Unknown,Linux,SUCCESS
+2026-01-11 15:29:17,finance1,198.51.100.23,"Salt Lake City, US",iPhone,FAILED
+2026-01-10 23:16:17,mvargas,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-14 15:08:17,finance2,203.0.113.5,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-10 11:47:17,guest,45.33.32.156,"New York, US",MacOS,SUCCESS
+2026-01-15 10:49:17,helpdesk,172.16.0.9,"Mexico City, MX",MacOS,FAILED
+2026-01-09 03:27:17,finance1,198.51.100.23,Unknown,Android,SUCCESS
+2026-01-15 19:00:17,guest,192.168.1.10,"Mexico City, MX",Windows-10,FAILED
+2026-01-12 18:50:17,helpdesk,10.0.0.8,"London, UK",Unknown,SUCCESS
+2026-01-15 08:31:17,finance2,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-14 19:40:17,rima,172.16.0.9,"London, UK",MacOS,FAILED
+2026-01-09 01:33:17,admin,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-13 20:38:17,rima,45.33.32.156,Unknown,Windows-10,SUCCESS
+2026-01-13 17:17:17,helpdesk,198.51.100.23,Unknown,Windows-10,FAILED
+2026-01-09 09:23:17,mvargas,172.16.0.9,"Berlin, DE",iPhone,FAILED
+2026-01-12 01:03:17,finance1,45.33.32.156,"Salt Lake City, US",Linux,SUCCESS
+2026-01-10 07:37:17,guest,192.168.1.10,"Mexico City, MX",MacOS,FAILED
+2026-01-12 04:54:17,mvargas,203.0.113.5,"London, UK",Unknown,SUCCESS
+2026-01-09 14:52:17,guest,45.33.32.156,"London, UK",Windows-10,SUCCESS
+2026-01-15 00:10:17,rima,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-12 06:34:17,helpdesk,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-09 22:23:17,finance1,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-15 10:05:17,rima,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 02:33:17,helpdesk,45.33.32.156,"London, UK",Linux,SUCCESS
+2026-01-12 11:11:17,mvargas,10.0.0.8,"London, UK",MacOS,SUCCESS
+2026-01-15 03:28:17,helpdesk,45.33.32.156,"Mexico City, MX",Windows-10,FAILED
+2026-01-10 18:43:17,finance2,10.0.0.8,"London, UK",Linux,SUCCESS
+2026-01-12 00:06:17,admin,10.0.0.8,"London, UK",Windows-10,FAILED
+2026-01-10 17:41:17,guest,192.168.1.10,"Berlin, DE",iPhone,SUCCESS
+2026-01-09 15:20:17,guest,198.51.100.23,"Mexico City, MX",iPhone,FAILED
+2026-01-10 04:13:17,guest,10.0.0.8,Unknown,Unknown,FAILED
+2026-01-13 16:12:17,admin,172.16.0.9,"London, UK",MacOS,FAILED
+2026-01-15 21:10:17,finance2,203.0.113.5,"Berlin, DE",Windows-10,FAILED
+2026-01-14 08:10:17,admin,172.16.0.9,Unknown,Unknown,FAILED
+2026-01-10 09:09:17,helpdesk,192.168.1.10,"Salt Lake City, US",Android,FAILED
+2026-01-15 14:22:17,mvargas,198.51.100.23,"Mexico City, MX",Linux,SUCCESS
+2026-01-12 02:40:17,finance2,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 01:54:17,finance1,198.51.100.23,"London, UK",Unknown,SUCCESS
+2026-01-12 22:46:17,helpdesk,45.33.32.156,"Berlin, DE",Linux,SUCCESS
+2026-01-12 14:19:17,mvargas,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-11 00:42:17,guest,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-15 13:12:17,rima,192.168.1.10,"London, UK",iPhone,FAILED
+2026-01-15 20:26:17,finance2,10.0.0.8,"London, UK",MacOS,FAILED
+2026-01-09 01:19:17,mvargas,192.168.1.10,"London, UK",Linux,FAILED
+2026-01-12 08:16:17,guest,203.0.113.5,"Berlin, DE",Linux,FAILED
+2026-01-14 19:41:17,finance2,45.33.32.156,Unknown,Unknown,SUCCESS
+2026-01-14 05:10:17,admin,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 01:14:17,finance1,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-13 04:38:17,guest,198.51.100.23,Unknown,Linux,FAILED
+2026-01-10 16:30:17,rima,198.51.100.23,"Mexico City, MX",Android,SUCCESS
+2026-01-15 14:48:17,admin,172.16.0.9,"Berlin, DE",Unknown,FAILED
+2026-01-10 21:01:17,admin,203.0.113.5,"London, UK",Windows-10,FAILED
+2026-01-14 18:22:17,rima,192.168.1.10,Unknown,iPhone,FAILED
+2026-01-14 17:21:17,helpdesk,172.16.0.9,"New York, US",Linux,SUCCESS
+2026-01-14 18:06:17,rima,45.33.32.156,"New York, US",Android,SUCCESS
+2026-01-15 08:40:17,guest,192.168.1.10,"London, UK",Linux,FAILED
+2026-01-09 09:57:17,finance1,198.51.100.23,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-15 05:23:17,mvargas,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-09 06:27:17,rima,10.0.0.8,"Mexico City, MX",Linux,SUCCESS
+2026-01-14 23:31:17,guest,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-10 07:34:17,rima,10.0.0.8,"Berlin, DE",Linux,SUCCESS
+2026-01-10 01:44:17,mvargas,10.0.0.8,"Berlin, DE",Android,FAILED
+2026-01-15 21:47:17,helpdesk,192.168.1.10,Unknown,Windows-10,FAILED
+2026-01-15 12:27:17,admin,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-10 20:39:17,mvargas,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-15 13:23:17,mvargas,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-09 03:44:17,mvargas,10.0.0.8,"Mexico City, MX",Linux,FAILED
+2026-01-09 10:23:17,helpdesk,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-09 10:24:17,rima,45.33.32.156,"New York, US",iPhone,SUCCESS
+2026-01-14 02:45:17,admin,198.51.100.23,"Berlin, DE",iPhone,FAILED
+2026-01-14 13:43:17,mvargas,10.0.0.8,Unknown,Android,FAILED
+2026-01-15 14:05:17,rima,198.51.100.23,"London, UK",Android,FAILED
+2026-01-14 10:40:17,mvargas,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-13 05:53:17,rima,192.168.1.10,"London, UK",Android,SUCCESS
+2026-01-10 05:46:17,admin,45.33.32.156,"Mexico City, MX",iPhone,SUCCESS
+2026-01-09 16:16:17,mvargas,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-11 02:36:17,helpdesk,203.0.113.5,"London, UK",MacOS,SUCCESS
+2026-01-12 02:37:17,finance1,192.168.1.10,"London, UK",MacOS,SUCCESS
+2026-01-10 09:51:17,mvargas,10.0.0.8,"London, UK",Linux,FAILED
+2026-01-10 09:17:17,guest,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-12 22:46:17,rima,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-15 12:58:17,rima,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-14 02:00:17,finance1,10.0.0.8,Unknown,iPhone,SUCCESS
+2026-01-13 22:38:17,guest,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-14 17:43:17,rima,10.0.0.8,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-15 02:33:17,finance2,203.0.113.5,Unknown,Android,SUCCESS
+2026-01-15 09:24:17,rima,203.0.113.5,"Salt Lake City, US",Android,FAILED
+2026-01-10 22:44:17,finance2,10.0.0.8,"London, UK",MacOS,FAILED
+2026-01-10 04:09:17,mvargas,45.33.32.156,"London, UK",Linux,FAILED
+2026-01-11 03:03:17,mvargas,172.16.0.9,"London, UK",Windows-10,SUCCESS
+2026-01-10 08:50:17,finance2,172.16.0.9,"Mexico City, MX",iPhone,SUCCESS
+2026-01-14 05:13:17,finance2,172.16.0.9,Unknown,MacOS,FAILED
+2026-01-10 22:34:17,mvargas,203.0.113.5,Unknown,Unknown,FAILED
+2026-01-13 15:03:17,mvargas,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-13 11:46:17,admin,172.16.0.9,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 00:22:17,guest,172.16.0.9,"New York, US",Unknown,FAILED
+2026-01-13 12:53:17,mvargas,45.33.32.156,"New York, US",Android,SUCCESS
+2026-01-12 09:09:17,rima,198.51.100.23,Unknown,Windows-10,SUCCESS
+2026-01-10 23:27:17,guest,10.0.0.8,"Berlin, DE",Android,FAILED
+2026-01-11 19:57:17,helpdesk,172.16.0.9,Unknown,Linux,SUCCESS
+2026-01-08 22:39:17,mvargas,172.16.0.9,"London, UK",Windows-10,FAILED
+2026-01-15 14:10:17,guest,172.16.0.9,"Salt Lake City, US",MacOS,FAILED
+2026-01-09 08:32:17,finance2,203.0.113.5,"New York, US",iPhone,FAILED
+2026-01-09 21:55:17,helpdesk,172.16.0.9,Unknown,Android,FAILED
+2026-01-11 10:41:17,admin,45.33.32.156,"Salt Lake City, US",iPhone,FAILED
+2026-01-13 18:10:17,helpdesk,203.0.113.5,Unknown,Linux,FAILED
+2026-01-14 02:02:17,guest,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-14 18:10:17,finance2,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-15 07:04:17,admin,10.0.0.8,"Berlin, DE",MacOS,FAILED
+2026-01-11 14:50:17,guest,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-12 21:13:17,helpdesk,192.168.1.10,"New York, US",Unknown,SUCCESS
+2026-01-10 11:41:17,finance1,172.16.0.9,"Mexico City, MX",Unknown,SUCCESS
+2026-01-11 16:24:17,mvargas,45.33.32.156,Unknown,Android,SUCCESS
+2026-01-12 22:22:17,finance1,203.0.113.5,"New York, US",Unknown,SUCCESS
+2026-01-15 08:12:17,rima,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-10 20:36:17,finance1,172.16.0.9,"New York, US",Linux,FAILED
+2026-01-13 13:17:17,finance2,10.0.0.8,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-13 00:50:17,helpdesk,10.0.0.8,"Salt Lake City, US",Windows-10,FAILED
+2026-01-12 09:23:17,rima,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-10 05:15:17,rima,203.0.113.5,"Mexico City, MX",Android,SUCCESS
+2026-01-12 05:27:17,rima,45.33.32.156,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-14 10:58:17,mvargas,172.16.0.9,Unknown,iPhone,FAILED
+2026-01-15 08:18:17,admin,192.168.1.10,Unknown,Android,FAILED
+2026-01-14 11:45:17,rima,45.33.32.156,"London, UK",Windows-10,SUCCESS
+2026-01-09 23:14:17,finance1,203.0.113.5,Unknown,Linux,FAILED
+2026-01-11 19:03:17,finance1,10.0.0.8,"Salt Lake City, US",MacOS,FAILED
+2026-01-09 05:18:17,finance2,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-14 21:52:17,finance2,172.16.0.9,"New York, US",Windows-10,FAILED
+2026-01-12 11:08:17,finance1,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-12 23:40:17,admin,10.0.0.8,"London, UK",MacOS,SUCCESS
+2026-01-13 03:14:17,finance2,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-15 09:11:17,finance2,172.16.0.9,Unknown,Android,FAILED
+2026-01-11 09:30:17,helpdesk,198.51.100.23,"Mexico City, MX",Unknown,SUCCESS
+2026-01-12 08:12:17,guest,45.33.32.156,Unknown,Windows-10,SUCCESS
+2026-01-11 12:31:17,rima,10.0.0.8,"Mexico City, MX",Unknown,FAILED
+2026-01-09 22:53:17,mvargas,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 04:06:17,mvargas,192.168.1.10,"Berlin, DE",Linux,SUCCESS
+2026-01-12 03:44:17,mvargas,172.16.0.9,"Salt Lake City, US",Linux,FAILED
+2026-01-12 18:52:17,mvargas,198.51.100.23,"Salt Lake City, US",Unknown,FAILED
+2026-01-10 22:32:17,finance1,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-15 08:14:17,finance1,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-15 02:35:17,admin,45.33.32.156,"Mexico City, MX",Android,FAILED
+2026-01-10 16:33:17,helpdesk,45.33.32.156,"Berlin, DE",Windows-10,FAILED
+2026-01-09 14:47:17,finance1,172.16.0.9,"London, UK",Linux,FAILED
+2026-01-15 08:41:17,guest,198.51.100.23,"London, UK",Android,FAILED
+2026-01-10 11:46:17,admin,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-11 01:58:17,rima,172.16.0.9,Unknown,Android,FAILED
+2026-01-10 14:31:17,finance1,45.33.32.156,"London, UK",Linux,SUCCESS
+2026-01-13 16:05:17,admin,45.33.32.156,"New York, US",Linux,SUCCESS
+2026-01-11 21:41:17,mvargas,10.0.0.8,"New York, US",MacOS,SUCCESS
+2026-01-10 05:03:17,rima,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-11 19:05:17,finance1,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-15 02:11:17,guest,172.16.0.9,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-15 15:05:17,guest,192.168.1.10,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 22:25:17,rima,45.33.32.156,"Berlin, DE",Linux,FAILED
+2026-01-10 05:41:17,finance1,172.16.0.9,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 09:25:17,guest,10.0.0.8,"New York, US",Linux,SUCCESS
+2026-01-09 23:49:17,rima,203.0.113.5,"Berlin, DE",Windows-10,SUCCESS
+2026-01-09 11:17:17,admin,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-11 08:35:17,helpdesk,203.0.113.5,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-09 22:20:17,guest,10.0.0.8,"Berlin, DE",Windows-10,FAILED
+2026-01-12 23:14:17,rima,203.0.113.5,Unknown,iPhone,FAILED
+2026-01-09 01:34:17,finance2,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 21:40:17,admin,172.16.0.9,"Mexico City, MX",Windows-10,FAILED
+2026-01-12 22:54:17,mvargas,203.0.113.5,"Berlin, DE",iPhone,FAILED
+2026-01-10 05:14:17,mvargas,172.16.0.9,"New York, US",iPhone,SUCCESS
+2026-01-14 00:23:17,mvargas,45.33.32.156,"Mexico City, MX",Windows-10,FAILED
+2026-01-14 11:40:17,mvargas,192.168.1.10,"London, UK",MacOS,SUCCESS
+2026-01-12 05:35:17,finance2,172.16.0.9,Unknown,Android,FAILED
+2026-01-15 15:02:17,admin,45.33.32.156,Unknown,iPhone,FAILED
+2026-01-09 02:10:17,mvargas,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-09 07:02:17,finance2,192.168.1.10,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-15 18:13:17,helpdesk,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-13 09:49:17,rima,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 22:39:17,rima,203.0.113.5,"New York, US",Linux,SUCCESS
+2026-01-11 08:07:17,rima,203.0.113.5,Unknown,Android,SUCCESS
+2026-01-14 06:18:17,helpdesk,203.0.113.5,"London, UK",Windows-10,SUCCESS
+2026-01-14 10:24:17,admin,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-15 20:36:17,mvargas,172.16.0.9,"New York, US",Unknown,FAILED
+2026-01-12 00:51:17,helpdesk,203.0.113.5,"Salt Lake City, US",Linux,FAILED
+2026-01-12 23:50:17,guest,45.33.32.156,"Berlin, DE",Linux,FAILED
+2026-01-09 07:42:17,guest,192.168.1.10,"New York, US",Android,SUCCESS
+2026-01-10 01:25:17,admin,203.0.113.5,"New York, US",MacOS,FAILED
+2026-01-12 09:24:17,finance2,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-11 17:21:17,admin,45.33.32.156,Unknown,Android,SUCCESS
+2026-01-12 18:28:17,finance1,203.0.113.5,"Mexico City, MX",Linux,SUCCESS
+2026-01-11 16:52:17,finance2,10.0.0.8,"London, UK",MacOS,SUCCESS
+2026-01-09 00:22:17,finance2,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-15 09:42:17,finance2,203.0.113.5,"New York, US",Linux,SUCCESS
+2026-01-12 08:43:17,finance1,203.0.113.5,"London, UK",Unknown,SUCCESS
+2026-01-12 19:22:17,mvargas,10.0.0.8,"Berlin, DE",Windows-10,SUCCESS
+2026-01-12 09:28:17,guest,203.0.113.5,"Mexico City, MX",iPhone,FAILED
+2026-01-13 19:20:17,finance1,192.168.1.10,"Mexico City, MX",iPhone,FAILED
+2026-01-12 01:43:17,admin,45.33.32.156,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 15:05:17,finance1,192.168.1.10,"New York, US",Windows-10,SUCCESS
+2026-01-11 05:06:17,guest,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-11 16:24:17,finance1,192.168.1.10,"New York, US",Linux,SUCCESS
+2026-01-09 18:27:17,finance2,45.33.32.156,"London, UK",Unknown,SUCCESS
+2026-01-11 01:47:17,admin,45.33.32.156,Unknown,Windows-10,SUCCESS
+2026-01-09 05:55:17,rima,203.0.113.5,"London, UK",Unknown,SUCCESS
+2026-01-14 11:11:17,helpdesk,45.33.32.156,Unknown,iPhone,SUCCESS
+2026-01-13 15:31:17,finance2,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-14 13:23:17,guest,198.51.100.23,"London, UK",Android,FAILED
+2026-01-09 05:25:17,admin,45.33.32.156,Unknown,iPhone,SUCCESS
+2026-01-15 22:03:17,finance1,172.16.0.9,"London, UK",MacOS,SUCCESS
+2026-01-10 17:03:17,rima,10.0.0.8,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 01:10:17,helpdesk,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-15 05:57:17,rima,172.16.0.9,"Berlin, DE",Linux,SUCCESS
+2026-01-11 20:48:17,finance2,172.16.0.9,"Mexico City, MX",Windows-10,FAILED
+2026-01-12 10:50:17,finance1,45.33.32.156,Unknown,Android,SUCCESS
+2026-01-13 01:04:17,guest,45.33.32.156,"London, UK",MacOS,SUCCESS
+2026-01-15 06:48:17,helpdesk,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-11 12:42:17,helpdesk,192.168.1.10,"Salt Lake City, US",Linux,SUCCESS
+2026-01-09 14:49:17,guest,45.33.32.156,"New York, US",Linux,FAILED
+2026-01-11 21:09:17,guest,203.0.113.5,Unknown,MacOS,FAILED
+2026-01-10 18:39:17,guest,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-14 14:38:17,rima,172.16.0.9,"London, UK",Android,SUCCESS
+2026-01-12 14:49:17,finance2,192.168.1.10,"Salt Lake City, US",Unknown,FAILED
+2026-01-09 16:16:17,finance2,172.16.0.9,"Mexico City, MX",Unknown,FAILED
+2026-01-09 14:46:17,rima,45.33.32.156,"Mexico City, MX",Android,FAILED
+2026-01-13 04:57:17,finance1,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-11 22:01:17,finance1,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-12 15:25:17,finance2,198.51.100.23,Unknown,iPhone,SUCCESS
+2026-01-14 14:33:17,rima,45.33.32.156,"New York, US",Android,FAILED
+2026-01-11 23:23:17,finance2,10.0.0.8,"London, UK",iPhone,SUCCESS
+2026-01-08 23:28:17,helpdesk,10.0.0.8,"New York, US",iPhone,FAILED
+2026-01-15 17:34:17,helpdesk,10.0.0.8,"Berlin, DE",Windows-10,FAILED
+2026-01-11 07:41:17,finance2,172.16.0.9,"London, UK",Windows-10,FAILED
+2026-01-13 22:17:17,rima,198.51.100.23,"New York, US",iPhone,FAILED
+2026-01-10 04:51:17,rima,192.168.1.10,"New York, US",iPhone,SUCCESS
+2026-01-12 22:25:17,mvargas,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 15:30:17,admin,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-12 18:03:17,mvargas,45.33.32.156,"New York, US",MacOS,FAILED
+2026-01-09 02:35:17,mvargas,10.0.0.8,"Berlin, DE",Linux,SUCCESS
+2026-01-13 19:57:17,finance1,192.168.1.10,Unknown,Windows-10,SUCCESS
+2026-01-12 12:49:17,mvargas,192.168.1.10,"Salt Lake City, US",Android,FAILED
+2026-01-14 21:52:17,helpdesk,192.168.1.10,"New York, US",MacOS,FAILED
+2026-01-10 14:47:17,finance1,172.16.0.9,"Berlin, DE",Linux,FAILED
+2026-01-14 23:06:17,admin,198.51.100.23,"Salt Lake City, US",iPhone,FAILED
+2026-01-11 11:33:17,finance1,192.168.1.10,"London, UK",Unknown,SUCCESS
+2026-01-11 22:39:17,admin,192.168.1.10,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-13 13:50:17,finance2,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-09 09:42:17,finance1,198.51.100.23,"Berlin, DE",iPhone,SUCCESS
+2026-01-13 14:27:17,finance2,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-12 13:18:17,guest,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 07:38:17,helpdesk,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-14 15:13:17,admin,172.16.0.9,"Berlin, DE",Unknown,SUCCESS
+2026-01-11 16:08:17,finance2,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-09 07:35:17,finance1,192.168.1.10,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 23:12:17,guest,172.16.0.9,"London, UK",Android,FAILED
+2026-01-08 22:39:17,helpdesk,172.16.0.9,Unknown,Android,SUCCESS
+2026-01-15 16:08:17,guest,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-13 05:50:17,admin,172.16.0.9,"Salt Lake City, US",Android,FAILED
+2026-01-11 23:08:17,guest,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-15 02:41:17,finance1,10.0.0.8,"Berlin, DE",iPhone,SUCCESS
+2026-01-14 07:38:17,finance2,172.16.0.9,"London, UK",Linux,SUCCESS
+2026-01-15 10:14:17,rima,10.0.0.8,"Salt Lake City, US",Linux,SUCCESS
+2026-01-11 06:20:17,guest,10.0.0.8,"London, UK",MacOS,FAILED
+2026-01-10 16:01:17,finance2,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-09 10:12:17,admin,198.51.100.23,"London, UK",Android,SUCCESS
+2026-01-10 16:24:17,finance1,203.0.113.5,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-14 21:06:17,guest,203.0.113.5,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 10:24:17,admin,198.51.100.23,Unknown,Windows-10,SUCCESS
+2026-01-14 09:01:17,finance1,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-10 10:02:17,admin,198.51.100.23,"Berlin, DE",Unknown,SUCCESS
+2026-01-13 03:38:17,guest,203.0.113.5,"Mexico City, MX",iPhone,SUCCESS
+2026-01-11 05:14:17,mvargas,45.33.32.156,"London, UK",Windows-10,SUCCESS
+2026-01-12 10:06:17,finance1,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-11 22:52:17,finance2,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-09 22:39:17,rima,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-13 03:52:17,mvargas,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-12 07:01:17,helpdesk,198.51.100.23,Unknown,Linux,FAILED
+2026-01-12 22:36:17,rima,198.51.100.23,"Berlin, DE",MacOS,FAILED
+2026-01-11 02:43:17,finance2,172.16.0.9,"Berlin, DE",iPhone,SUCCESS
+2026-01-11 05:52:17,admin,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-14 21:58:17,helpdesk,198.51.100.23,Unknown,Windows-10,SUCCESS
+2026-01-15 08:16:17,helpdesk,198.51.100.23,Unknown,Android,SUCCESS
+2026-01-14 07:43:17,rima,192.168.1.10,"Mexico City, MX",Android,SUCCESS
+2026-01-14 18:09:17,finance2,192.168.1.10,Unknown,MacOS,FAILED
+2026-01-13 12:05:17,guest,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-13 08:12:17,finance2,198.51.100.23,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-09 19:27:17,guest,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-11 09:16:17,guest,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-12 18:02:17,helpdesk,192.168.1.10,"Berlin, DE",Unknown,FAILED
+2026-01-15 13:51:17,rima,198.51.100.23,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-12 17:41:17,rima,45.33.32.156,"Salt Lake City, US",MacOS,FAILED
+2026-01-12 01:24:17,guest,203.0.113.5,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-12 07:59:17,guest,198.51.100.23,"Berlin, DE",Android,FAILED
+2026-01-12 10:11:17,admin,10.0.0.8,"Mexico City, MX",Android,FAILED
+2026-01-11 20:36:17,admin,10.0.0.8,"New York, US",Windows-10,SUCCESS
+2026-01-13 04:28:17,helpdesk,172.16.0.9,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 02:16:17,finance2,203.0.113.5,"New York, US",Android,FAILED
+2026-01-15 06:15:17,finance1,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-09 16:52:17,helpdesk,45.33.32.156,"London, UK",Windows-10,SUCCESS
+2026-01-13 22:18:17,admin,10.0.0.8,Unknown,MacOS,FAILED
+2026-01-15 16:04:17,guest,198.51.100.23,"Mexico City, MX",Unknown,SUCCESS
+2026-01-11 05:53:17,mvargas,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-10 11:48:17,finance2,192.168.1.10,"Berlin, DE",Android,SUCCESS
+2026-01-15 07:36:17,finance1,10.0.0.8,"Mexico City, MX",MacOS,FAILED
+2026-01-12 06:55:17,finance2,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-11 06:53:17,guest,192.168.1.10,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-09 23:23:17,mvargas,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-13 23:12:17,finance1,198.51.100.23,"New York, US",Windows-10,FAILED
+2026-01-10 10:49:17,mvargas,10.0.0.8,"Mexico City, MX",iPhone,FAILED
+2026-01-15 13:20:17,finance2,203.0.113.5,Unknown,Linux,FAILED
+2026-01-12 10:55:17,admin,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-11 13:25:17,helpdesk,192.168.1.10,"London, UK",Android,SUCCESS
+2026-01-12 05:52:17,rima,172.16.0.9,"Berlin, DE",Unknown,SUCCESS
+2026-01-14 05:13:17,rima,172.16.0.9,"New York, US",Android,SUCCESS
+2026-01-13 12:00:17,mvargas,192.168.1.10,"London, UK",Windows-10,FAILED
+2026-01-11 07:52:17,finance1,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-12 21:24:17,mvargas,198.51.100.23,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 09:07:17,guest,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 06:51:17,admin,10.0.0.8,"Berlin, DE",iPhone,SUCCESS
+2026-01-15 17:54:17,mvargas,192.168.1.10,"London, UK",MacOS,FAILED
+2026-01-12 08:19:17,mvargas,10.0.0.8,"London, UK",iPhone,SUCCESS
+2026-01-11 17:57:17,admin,172.16.0.9,"London, UK",MacOS,SUCCESS
+2026-01-12 07:50:17,finance2,192.168.1.10,Unknown,Linux,SUCCESS
+2026-01-15 05:00:17,mvargas,10.0.0.8,"Berlin, DE",Android,SUCCESS
+2026-01-09 07:36:17,mvargas,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-10 10:26:17,helpdesk,45.33.32.156,"London, UK",Windows-10,SUCCESS
+2026-01-10 19:09:17,admin,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-14 09:32:17,admin,10.0.0.8,"London, UK",Windows-10,SUCCESS
+2026-01-11 15:35:17,mvargas,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-10 06:30:17,admin,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-09 09:53:17,guest,203.0.113.5,"London, UK",MacOS,SUCCESS
+2026-01-15 06:01:17,rima,10.0.0.8,"New York, US",Unknown,FAILED
+2026-01-14 15:25:17,rima,192.168.1.10,"Salt Lake City, US",Windows-10,FAILED
+2026-01-14 11:45:17,finance2,172.16.0.9,"Berlin, DE",MacOS,FAILED
+2026-01-11 13:00:17,mvargas,10.0.0.8,"New York, US",iPhone,FAILED
+2026-01-13 18:10:17,helpdesk,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-10 07:22:17,mvargas,172.16.0.9,"Berlin, DE",MacOS,SUCCESS
+2026-01-15 16:57:17,finance2,45.33.32.156,Unknown,Windows-10,FAILED
+2026-01-09 18:20:17,guest,203.0.113.5,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-10 22:06:17,finance2,203.0.113.5,"London, UK",Windows-10,FAILED
+2026-01-14 04:29:17,guest,10.0.0.8,"Salt Lake City, US",iPhone,FAILED
+2026-01-13 14:53:17,finance2,198.51.100.23,"Salt Lake City, US",Windows-10,FAILED
+2026-01-10 14:49:17,finance1,45.33.32.156,Unknown,MacOS,SUCCESS
+2026-01-12 20:25:17,finance2,10.0.0.8,"New York, US",MacOS,FAILED
+2026-01-12 16:48:17,finance1,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-14 21:54:17,finance2,203.0.113.5,"Salt Lake City, US",Linux,SUCCESS
+2026-01-11 04:45:17,finance2,172.16.0.9,"Salt Lake City, US",iPhone,FAILED
+2026-01-09 23:37:17,finance1,172.16.0.9,"London, UK",Linux,SUCCESS
+2026-01-14 12:54:17,finance1,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-12 09:07:17,mvargas,172.16.0.9,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 21:16:17,helpdesk,172.16.0.9,"Berlin, DE",iPhone,FAILED
+2026-01-15 16:29:17,guest,172.16.0.9,Unknown,Windows-10,SUCCESS
+2026-01-11 19:12:17,finance2,10.0.0.8,"New York, US",MacOS,SUCCESS
+2026-01-15 07:45:17,rima,198.51.100.23,"Berlin, DE",Unknown,FAILED
+2026-01-09 12:06:17,helpdesk,172.16.0.9,"Mexico City, MX",Unknown,FAILED
+2026-01-12 19:57:17,finance2,198.51.100.23,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-12 19:07:17,finance1,45.33.32.156,"Mexico City, MX",iPhone,SUCCESS
+2026-01-14 11:56:17,guest,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 19:32:17,admin,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-09 21:05:17,admin,198.51.100.23,"Mexico City, MX",Linux,SUCCESS
+2026-01-12 18:06:17,mvargas,203.0.113.5,"New York, US",Unknown,FAILED
+2026-01-13 13:39:17,finance1,45.33.32.156,"New York, US",Windows-10,SUCCESS
+2026-01-09 09:44:17,helpdesk,10.0.0.8,"Mexico City, MX",iPhone,SUCCESS
+2026-01-10 15:36:17,admin,10.0.0.8,"New York, US",iPhone,FAILED
+2026-01-15 21:02:17,helpdesk,203.0.113.5,"Mexico City, MX",iPhone,FAILED
+2026-01-14 16:46:17,finance2,45.33.32.156,"New York, US",MacOS,SUCCESS
+2026-01-09 00:52:17,mvargas,10.0.0.8,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 18:53:17,finance1,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-14 18:43:17,finance1,198.51.100.23,"New York, US",iPhone,FAILED
+2026-01-09 19:07:17,guest,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-12 07:10:17,admin,203.0.113.5,Unknown,Unknown,SUCCESS
+2026-01-13 05:02:17,guest,172.16.0.9,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-13 01:43:17,finance1,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-13 05:23:17,helpdesk,203.0.113.5,"Berlin, DE",MacOS,FAILED
+2026-01-14 03:42:17,mvargas,203.0.113.5,"Mexico City, MX",MacOS,SUCCESS
+2026-01-12 00:31:17,rima,10.0.0.8,"Berlin, DE",Linux,SUCCESS
+2026-01-13 09:30:17,rima,172.16.0.9,"Berlin, DE",Unknown,FAILED
+2026-01-11 16:24:17,admin,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-13 13:41:17,finance1,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-13 00:46:17,finance1,203.0.113.5,"London, UK",MacOS,FAILED
+2026-01-14 13:46:17,finance2,192.168.1.10,"Berlin, DE",iPhone,FAILED
+2026-01-11 05:13:17,guest,192.168.1.10,"New York, US",iPhone,FAILED
+2026-01-10 21:00:17,finance1,203.0.113.5,"Salt Lake City, US",Linux,SUCCESS
+2026-01-13 06:58:17,finance2,203.0.113.5,Unknown,MacOS,SUCCESS
+2026-01-14 08:02:17,rima,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-11 21:27:17,admin,198.51.100.23,"London, UK",Android,FAILED
+2026-01-14 07:26:17,admin,192.168.1.10,"New York, US",Linux,SUCCESS
+2026-01-13 13:52:17,finance1,10.0.0.8,"London, UK",Windows-10,SUCCESS
+2026-01-15 00:40:17,helpdesk,172.16.0.9,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 19:16:17,admin,198.51.100.23,"London, UK",Unknown,FAILED
+2026-01-14 22:56:17,finance2,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-09 01:36:17,mvargas,45.33.32.156,Unknown,Linux,SUCCESS
+2026-01-15 18:49:17,admin,203.0.113.5,"New York, US",Windows-10,FAILED
+2026-01-10 00:43:17,finance2,45.33.32.156,Unknown,Android,FAILED
+2026-01-10 04:47:17,admin,10.0.0.8,Unknown,MacOS,FAILED
+2026-01-10 06:34:17,finance2,198.51.100.23,"Mexico City, MX",Unknown,FAILED
+2026-01-13 11:37:17,helpdesk,198.51.100.23,"London, UK",iPhone,FAILED
+2026-01-10 13:33:17,guest,172.16.0.9,"Berlin, DE",Android,FAILED
+2026-01-12 05:14:17,rima,10.0.0.8,"London, UK",Unknown,SUCCESS
+2026-01-13 15:13:17,mvargas,45.33.32.156,"Salt Lake City, US",Linux,FAILED
+2026-01-15 12:11:17,helpdesk,198.51.100.23,"New York, US",Linux,FAILED
+2026-01-10 10:34:17,rima,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-12 03:34:17,mvargas,172.16.0.9,Unknown,Android,FAILED
+2026-01-10 10:14:17,finance1,172.16.0.9,Unknown,Android,SUCCESS
+2026-01-12 01:30:17,finance1,192.168.1.10,"Berlin, DE",Linux,FAILED
+2026-01-12 00:57:17,guest,10.0.0.8,"New York, US",iPhone,SUCCESS
+2026-01-15 09:46:17,finance2,192.168.1.10,"London, UK",Windows-10,FAILED
+2026-01-09 18:06:17,mvargas,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-10 12:17:17,helpdesk,203.0.113.5,"Berlin, DE",Windows-10,FAILED
+2026-01-15 15:34:17,guest,45.33.32.156,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-14 06:04:17,mvargas,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-12 19:16:17,admin,45.33.32.156,"Berlin, DE",MacOS,SUCCESS
+2026-01-11 07:27:17,admin,45.33.32.156,"Berlin, DE",Unknown,SUCCESS
+2026-01-10 21:39:17,mvargas,45.33.32.156,"London, UK",Android,SUCCESS
+2026-01-12 01:08:17,finance1,192.168.1.10,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 18:14:17,guest,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-09 13:20:17,finance2,203.0.113.5,"Berlin, DE",iPhone,FAILED
+2026-01-11 19:08:17,mvargas,172.16.0.9,"Mexico City, MX",Linux,SUCCESS
+2026-01-14 02:21:17,finance1,172.16.0.9,"Berlin, DE",Android,SUCCESS
+2026-01-11 02:15:17,mvargas,198.51.100.23,"New York, US",iPhone,FAILED
+2026-01-09 19:16:17,finance1,45.33.32.156,"Salt Lake City, US",Android,FAILED
+2026-01-11 04:07:17,finance2,203.0.113.5,"New York, US",Linux,FAILED
+2026-01-12 07:17:17,finance1,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-09 02:42:17,mvargas,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-15 01:14:17,admin,45.33.32.156,"London, UK",Unknown,SUCCESS
+2026-01-12 12:36:17,admin,203.0.113.5,"Salt Lake City, US",Windows-10,FAILED
+2026-01-12 23:24:17,helpdesk,192.168.1.10,Unknown,Android,FAILED
+2026-01-12 20:02:17,mvargas,10.0.0.8,"London, UK",Android,SUCCESS
+2026-01-09 20:59:17,admin,203.0.113.5,"Mexico City, MX",MacOS,FAILED
+2026-01-14 22:39:17,guest,203.0.113.5,"Berlin, DE",Android,SUCCESS
+2026-01-11 19:11:17,finance1,192.168.1.10,"New York, US",Unknown,SUCCESS
+2026-01-14 20:07:17,helpdesk,172.16.0.9,Unknown,Android,SUCCESS
+2026-01-13 21:38:17,rima,10.0.0.8,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-15 14:14:17,guest,198.51.100.23,"Salt Lake City, US",Windows-10,FAILED
+2026-01-09 21:53:17,helpdesk,192.168.1.10,"New York, US",Linux,SUCCESS
+2026-01-09 17:46:17,finance2,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-14 04:29:17,helpdesk,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-12 23:13:17,helpdesk,192.168.1.10,"Salt Lake City, US",Linux,FAILED
+2026-01-11 04:59:17,helpdesk,198.51.100.23,"Berlin, DE",Linux,FAILED
+2026-01-13 22:26:17,finance2,192.168.1.10,"Berlin, DE",Unknown,FAILED
+2026-01-14 06:55:17,rima,198.51.100.23,Unknown,Unknown,FAILED
+2026-01-11 15:52:17,finance1,172.16.0.9,"Mexico City, MX",Unknown,FAILED
+2026-01-15 19:50:17,rima,192.168.1.10,"Mexico City, MX",Linux,SUCCESS
+2026-01-11 15:33:17,finance2,10.0.0.8,"Salt Lake City, US",Android,SUCCESS
+2026-01-11 11:36:17,finance1,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-10 00:00:17,rima,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-11 16:03:17,rima,172.16.0.9,"Salt Lake City, US",Linux,SUCCESS
+2026-01-13 15:22:17,admin,192.168.1.10,"New York, US",Android,SUCCESS
+2026-01-10 02:44:17,finance2,172.16.0.9,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 22:52:17,rima,45.33.32.156,"Berlin, DE",iPhone,SUCCESS
+2026-01-13 06:36:17,mvargas,192.168.1.10,"Salt Lake City, US",Linux,SUCCESS
+2026-01-09 21:46:17,guest,45.33.32.156,"Berlin, DE",Linux,SUCCESS
+2026-01-15 01:10:17,mvargas,172.16.0.9,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-12 05:51:17,helpdesk,198.51.100.23,Unknown,Windows-10,SUCCESS
+2026-01-11 07:20:17,mvargas,10.0.0.8,"Berlin, DE",Android,SUCCESS
+2026-01-11 06:57:17,finance1,198.51.100.23,"Salt Lake City, US",Linux,FAILED
+2026-01-15 03:31:17,guest,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-11 15:38:17,finance2,192.168.1.10,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-12 10:50:17,finance2,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-12 17:50:17,finance2,10.0.0.8,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-10 05:26:17,finance1,172.16.0.9,"Berlin, DE",MacOS,SUCCESS
+2026-01-14 02:48:17,helpdesk,45.33.32.156,"Berlin, DE",Unknown,SUCCESS
+2026-01-09 20:11:17,mvargas,192.168.1.10,Unknown,Unknown,SUCCESS
+2026-01-10 11:16:17,finance2,198.51.100.23,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 06:30:17,helpdesk,203.0.113.5,Unknown,MacOS,SUCCESS
+2026-01-12 08:27:17,finance2,203.0.113.5,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-10 18:40:17,helpdesk,10.0.0.8,Unknown,Unknown,FAILED
+2026-01-12 15:24:17,admin,10.0.0.8,"Salt Lake City, US",Android,SUCCESS
+2026-01-12 19:26:17,rima,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-11 15:36:17,admin,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-12 12:03:17,helpdesk,172.16.0.9,"London, UK",iPhone,SUCCESS
+2026-01-10 07:40:17,helpdesk,10.0.0.8,"New York, US",Linux,SUCCESS
+2026-01-15 01:25:17,rima,198.51.100.23,"Berlin, DE",Unknown,FAILED
+2026-01-09 22:52:17,finance1,10.0.0.8,"New York, US",iPhone,FAILED
+2026-01-09 02:07:17,finance1,203.0.113.5,"Mexico City, MX",Unknown,SUCCESS
+2026-01-10 22:32:17,guest,198.51.100.23,"Berlin, DE",Unknown,SUCCESS
+2026-01-12 04:02:17,finance2,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-09 05:57:17,mvargas,172.16.0.9,"New York, US",Unknown,SUCCESS
+2026-01-15 15:49:17,rima,172.16.0.9,"Salt Lake City, US",Linux,SUCCESS
+2026-01-13 09:12:17,admin,192.168.1.10,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-09 02:22:17,mvargas,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-14 13:12:17,finance1,45.33.32.156,Unknown,iPhone,FAILED
+2026-01-14 01:17:17,rima,192.168.1.10,"London, UK",iPhone,SUCCESS
+2026-01-10 21:42:17,helpdesk,172.16.0.9,"Salt Lake City, US",Android,SUCCESS
+2026-01-11 06:39:17,mvargas,198.51.100.23,"New York, US",Windows-10,FAILED
+2026-01-12 22:10:17,finance1,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-11 02:16:17,mvargas,192.168.1.10,"New York, US",Unknown,FAILED
+2026-01-12 11:35:17,finance1,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-10 00:54:17,finance2,192.168.1.10,"Mexico City, MX",iPhone,FAILED
+2026-01-15 09:56:17,guest,10.0.0.8,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-11 23:40:17,finance2,10.0.0.8,"London, UK",iPhone,SUCCESS
+2026-01-10 22:32:17,rima,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-10 19:47:17,guest,172.16.0.9,"Salt Lake City, US",MacOS,FAILED
+2026-01-10 19:40:17,admin,198.51.100.23,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-11 10:12:17,finance2,198.51.100.23,"London, UK",MacOS,SUCCESS
+2026-01-14 07:13:17,admin,192.168.1.10,"Salt Lake City, US",Windows-10,FAILED
+2026-01-13 03:15:17,rima,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-10 06:01:17,mvargas,198.51.100.23,"Berlin, DE",Unknown,SUCCESS
+2026-01-13 12:54:17,mvargas,198.51.100.23,"Mexico City, MX",MacOS,FAILED
+2026-01-13 18:40:17,helpdesk,192.168.1.10,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-13 01:00:17,helpdesk,198.51.100.23,"New York, US",iPhone,SUCCESS
+2026-01-09 17:55:17,guest,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-15 21:16:17,finance2,198.51.100.23,"Salt Lake City, US",Windows-10,FAILED
+2026-01-14 21:42:17,mvargas,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-12 12:45:17,rima,192.168.1.10,"Salt Lake City, US",Android,SUCCESS
+2026-01-14 04:15:17,finance2,172.16.0.9,"New York, US",Windows-10,FAILED
+2026-01-12 13:11:17,mvargas,10.0.0.8,"London, UK",Unknown,FAILED
+2026-01-09 17:00:17,mvargas,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-14 17:32:17,mvargas,172.16.0.9,Unknown,Linux,FAILED
+2026-01-14 06:49:17,finance1,172.16.0.9,"Salt Lake City, US",Linux,SUCCESS
+2026-01-14 14:39:17,finance1,45.33.32.156,"New York, US",Unknown,SUCCESS
+2026-01-13 08:10:17,finance2,203.0.113.5,Unknown,Windows-10,FAILED
+2026-01-13 02:48:17,finance1,172.16.0.9,"New York, US",Unknown,SUCCESS
+2026-01-15 17:40:17,helpdesk,172.16.0.9,"Salt Lake City, US",Android,SUCCESS
+2026-01-09 08:12:17,admin,198.51.100.23,"New York, US",MacOS,SUCCESS
+2026-01-12 12:08:17,guest,10.0.0.8,"Salt Lake City, US",Android,SUCCESS
+2026-01-10 19:30:17,mvargas,203.0.113.5,"Mexico City, MX",MacOS,SUCCESS
+2026-01-13 04:26:17,guest,172.16.0.9,"Mexico City, MX",Unknown,FAILED
+2026-01-11 09:29:17,rima,198.51.100.23,"New York, US",iPhone,FAILED
+2026-01-14 03:04:17,admin,10.0.0.8,"London, UK",Windows-10,SUCCESS
+2026-01-12 20:06:17,helpdesk,172.16.0.9,Unknown,Windows-10,SUCCESS
+2026-01-10 18:39:17,rima,192.168.1.10,"New York, US",Linux,FAILED
+2026-01-15 20:03:17,helpdesk,198.51.100.23,"Berlin, DE",Linux,FAILED
+2026-01-10 11:59:17,admin,10.0.0.8,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 16:00:17,rima,10.0.0.8,"Berlin, DE",MacOS,SUCCESS
+2026-01-09 13:56:17,rima,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-14 01:56:17,finance2,198.51.100.23,"London, UK",Linux,FAILED
+2026-01-10 15:34:17,finance1,203.0.113.5,Unknown,Android,SUCCESS
+2026-01-13 21:20:17,finance2,192.168.1.10,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-10 22:14:17,finance2,10.0.0.8,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-12 08:23:17,finance2,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-10 06:14:17,helpdesk,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-13 03:18:17,guest,45.33.32.156,"New York, US",Android,SUCCESS
+2026-01-11 19:34:17,guest,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-11 14:59:17,helpdesk,203.0.113.5,"Berlin, DE",iPhone,FAILED
+2026-01-09 18:26:17,finance1,172.16.0.9,"Salt Lake City, US",Linux,FAILED
+2026-01-11 08:22:17,finance1,203.0.113.5,"Salt Lake City, US",Android,SUCCESS
+2026-01-10 23:37:17,helpdesk,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-11 06:57:17,guest,198.51.100.23,"Mexico City, MX",MacOS,FAILED
+2026-01-11 13:53:17,admin,172.16.0.9,Unknown,iPhone,SUCCESS
+2026-01-14 13:23:17,finance2,203.0.113.5,"New York, US",MacOS,SUCCESS
+2026-01-11 23:02:17,mvargas,192.168.1.10,"Berlin, DE",MacOS,FAILED
+2026-01-13 17:18:17,finance1,192.168.1.10,"Mexico City, MX",Linux,SUCCESS
+2026-01-12 17:04:17,guest,45.33.32.156,"London, UK",iPhone,FAILED
+2026-01-13 21:47:17,admin,10.0.0.8,"Mexico City, MX",Unknown,SUCCESS
+2026-01-10 18:20:17,helpdesk,203.0.113.5,"Salt Lake City, US",Unknown,FAILED
+2026-01-15 04:39:17,finance1,10.0.0.8,Unknown,MacOS,FAILED
+2026-01-11 04:00:17,admin,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-09 16:04:17,guest,198.51.100.23,Unknown,Linux,SUCCESS
+2026-01-09 02:29:17,guest,45.33.32.156,"Mexico City, MX",Unknown,SUCCESS
+2026-01-09 06:20:17,mvargas,192.168.1.10,"New York, US",Windows-10,FAILED
+2026-01-08 23:28:17,rima,10.0.0.8,"New York, US",iPhone,FAILED
+2026-01-11 14:56:17,mvargas,192.168.1.10,"Salt Lake City, US",Windows-10,FAILED
+2026-01-11 04:33:17,rima,198.51.100.23,"London, UK",Windows-10,SUCCESS
+2026-01-12 13:49:17,admin,198.51.100.23,Unknown,Android,FAILED
+2026-01-12 17:20:17,mvargas,192.168.1.10,"London, UK",MacOS,SUCCESS
+2026-01-09 15:42:17,guest,192.168.1.10,Unknown,iPhone,SUCCESS
+2026-01-12 16:08:17,admin,45.33.32.156,"Mexico City, MX",MacOS,SUCCESS
+2026-01-15 07:25:17,finance2,192.168.1.10,"New York, US",Unknown,SUCCESS
+2026-01-12 06:59:17,finance1,192.168.1.10,"New York, US",iPhone,FAILED
+2026-01-14 07:24:17,mvargas,192.168.1.10,"Berlin, DE",MacOS,SUCCESS
+2026-01-14 01:52:17,finance2,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-14 07:15:17,guest,198.51.100.23,"New York, US",Windows-10,SUCCESS
+2026-01-15 13:27:17,rima,192.168.1.10,Unknown,Android,SUCCESS
+2026-01-11 20:59:17,guest,198.51.100.23,"Berlin, DE",Linux,SUCCESS
+2026-01-09 13:59:17,mvargas,10.0.0.8,Unknown,Windows-10,SUCCESS
+2026-01-12 05:48:17,rima,172.16.0.9,Unknown,Unknown,SUCCESS
+2026-01-11 02:55:17,rima,10.0.0.8,"London, UK",Unknown,FAILED
+2026-01-10 10:14:17,rima,192.168.1.10,"New York, US",Android,FAILED
+2026-01-12 10:57:17,helpdesk,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-15 20:45:17,admin,192.168.1.10,"London, UK",Windows-10,SUCCESS
+2026-01-11 14:56:17,rima,10.0.0.8,Unknown,MacOS,SUCCESS
+2026-01-11 04:23:17,admin,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-13 01:28:17,finance1,172.16.0.9,"Mexico City, MX",Linux,SUCCESS
+2026-01-09 18:51:17,mvargas,172.16.0.9,"Salt Lake City, US",Linux,SUCCESS
+2026-01-14 10:26:17,mvargas,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-12 13:18:17,finance2,198.51.100.23,Unknown,Android,FAILED
+2026-01-13 03:53:17,guest,198.51.100.23,Unknown,iPhone,SUCCESS
+2026-01-10 03:03:17,finance2,198.51.100.23,"Salt Lake City, US",Unknown,FAILED
+2026-01-10 10:43:17,mvargas,45.33.32.156,"New York, US",Windows-10,SUCCESS
+2026-01-09 07:59:17,admin,172.16.0.9,"Salt Lake City, US",Unknown,FAILED
+2026-01-13 21:49:17,guest,192.168.1.10,"New York, US",Android,FAILED
+2026-01-09 12:23:17,mvargas,203.0.113.5,Unknown,MacOS,SUCCESS
+2026-01-09 17:41:17,admin,10.0.0.8,"Berlin, DE",Linux,FAILED
+2026-01-10 20:34:17,rima,10.0.0.8,"Mexico City, MX",Android,FAILED
+2026-01-13 01:22:17,mvargas,10.0.0.8,"Mexico City, MX",Linux,SUCCESS
+2026-01-11 21:16:17,finance1,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-11 00:54:17,guest,203.0.113.5,"Mexico City, MX",Android,FAILED
+2026-01-10 09:47:17,finance1,10.0.0.8,"Mexico City, MX",Windows-10,FAILED
+2026-01-14 18:29:17,admin,10.0.0.8,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-10 14:57:17,finance2,45.33.32.156,"London, UK",iPhone,SUCCESS
+2026-01-12 19:40:17,finance1,10.0.0.8,Unknown,Android,SUCCESS
+2026-01-08 22:25:17,finance2,10.0.0.8,"Berlin, DE",iPhone,SUCCESS
+2026-01-11 19:50:17,guest,192.168.1.10,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-12 13:10:17,finance2,203.0.113.5,"London, UK",iPhone,SUCCESS
+2026-01-12 22:45:17,helpdesk,198.51.100.23,"London, UK",Windows-10,FAILED
+2026-01-09 01:50:17,finance1,198.51.100.23,Unknown,Linux,FAILED
+2026-01-11 17:07:17,finance2,172.16.0.9,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-10 15:30:17,finance2,203.0.113.5,"London, UK",Linux,FAILED
+2026-01-13 06:20:17,helpdesk,203.0.113.5,"New York, US",MacOS,SUCCESS
+2026-01-12 18:15:17,finance1,192.168.1.10,"London, UK",MacOS,FAILED
+2026-01-10 12:22:17,finance2,172.16.0.9,Unknown,Linux,FAILED
+2026-01-09 11:30:17,finance2,45.33.32.156,"Mexico City, MX",iPhone,SUCCESS
+2026-01-14 04:29:17,finance2,172.16.0.9,"New York, US",Unknown,SUCCESS
+2026-01-11 18:29:17,mvargas,192.168.1.10,"Salt Lake City, US",iPhone,FAILED
+2026-01-09 05:22:17,rima,203.0.113.5,"Salt Lake City, US",Linux,SUCCESS
+2026-01-09 12:44:17,rima,198.51.100.23,Unknown,Android,SUCCESS
+2026-01-14 08:33:17,helpdesk,203.0.113.5,Unknown,Unknown,FAILED
+2026-01-15 11:52:17,helpdesk,203.0.113.5,"London, UK",Unknown,FAILED
+2026-01-12 22:35:17,guest,192.168.1.10,"Berlin, DE",Linux,FAILED
+2026-01-14 19:59:17,mvargas,198.51.100.23,"Mexico City, MX",Android,SUCCESS
+2026-01-11 12:24:17,rima,10.0.0.8,"London, UK",Linux,SUCCESS
+2026-01-10 08:29:17,finance1,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-13 20:27:17,mvargas,172.16.0.9,"New York, US",Android,FAILED
+2026-01-11 00:35:17,guest,203.0.113.5,"Berlin, DE",Unknown,SUCCESS
+2026-01-11 11:06:17,finance2,172.16.0.9,"Berlin, DE",Windows-10,SUCCESS
+2026-01-13 20:45:17,rima,198.51.100.23,Unknown,Unknown,SUCCESS
+2026-01-13 16:13:17,rima,203.0.113.5,"London, UK",iPhone,SUCCESS
+2026-01-11 01:24:17,helpdesk,45.33.32.156,"Berlin, DE",Windows-10,FAILED
+2026-01-10 13:31:17,guest,198.51.100.23,"Berlin, DE",MacOS,SUCCESS
+2026-01-15 04:57:17,finance2,192.168.1.10,"Berlin, DE",iPhone,SUCCESS
+2026-01-09 13:32:17,rima,45.33.32.156,"Salt Lake City, US",Linux,FAILED
+2026-01-11 09:08:17,guest,198.51.100.23,"New York, US",Linux,SUCCESS
+2026-01-10 16:14:17,finance1,198.51.100.23,"Salt Lake City, US",Android,SUCCESS
+2026-01-11 21:09:17,guest,203.0.113.5,"New York, US",Android,SUCCESS
+2026-01-14 06:16:17,mvargas,192.168.1.10,"Salt Lake City, US",iPhone,FAILED
+2026-01-10 19:34:17,finance1,10.0.0.8,"Berlin, DE",iPhone,SUCCESS
+2026-01-10 22:18:17,rima,45.33.32.156,"New York, US",MacOS,FAILED
+2026-01-10 04:23:17,finance1,198.51.100.23,Unknown,Linux,FAILED
+2026-01-12 00:49:17,finance2,198.51.100.23,"Berlin, DE",Windows-10,SUCCESS
+2026-01-08 22:52:17,helpdesk,192.168.1.10,"Salt Lake City, US",Linux,FAILED
+2026-01-10 13:12:17,admin,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-15 02:40:17,admin,198.51.100.23,Unknown,MacOS,FAILED
+2026-01-11 12:34:17,rima,198.51.100.23,"London, UK",Linux,SUCCESS
+2026-01-12 11:03:17,rima,172.16.0.9,"New York, US",Android,SUCCESS
+2026-01-11 03:08:17,guest,203.0.113.5,"Salt Lake City, US",Linux,SUCCESS
+2026-01-13 16:26:17,helpdesk,198.51.100.23,"Berlin, DE",Android,SUCCESS
+2026-01-12 02:03:17,helpdesk,45.33.32.156,"New York, US",Android,SUCCESS
+2026-01-10 13:53:17,guest,10.0.0.8,"New York, US",Windows-10,SUCCESS
+2026-01-13 07:06:17,mvargas,198.51.100.23,"Salt Lake City, US",iPhone,FAILED
+2026-01-12 18:02:17,admin,172.16.0.9,Unknown,Android,SUCCESS
+2026-01-14 05:27:17,finance2,45.33.32.156,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 08:35:17,admin,45.33.32.156,Unknown,Unknown,FAILED
+2026-01-13 12:04:17,helpdesk,45.33.32.156,"London, UK",MacOS,SUCCESS
+2026-01-08 23:28:17,finance1,10.0.0.8,Unknown,iPhone,FAILED
+2026-01-13 11:17:17,finance2,203.0.113.5,"Berlin, DE",Linux,FAILED
+2026-01-12 19:15:17,finance2,10.0.0.8,"Berlin, DE",Linux,SUCCESS
+2026-01-11 00:12:17,admin,192.168.1.10,"New York, US",Windows-10,SUCCESS
+2026-01-14 09:22:17,helpdesk,198.51.100.23,"London, UK",iPhone,SUCCESS
+2026-01-09 03:48:17,admin,45.33.32.156,"Berlin, DE",iPhone,SUCCESS
+2026-01-14 08:37:17,mvargas,203.0.113.5,"London, UK",Android,SUCCESS
+2026-01-15 08:45:17,finance2,203.0.113.5,"Salt Lake City, US",iPhone,FAILED
+2026-01-09 16:44:17,admin,172.16.0.9,"Berlin, DE",Windows-10,SUCCESS
+2026-01-12 17:09:17,admin,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-09 19:04:17,rima,10.0.0.8,"Salt Lake City, US",Unknown,FAILED
+2026-01-10 14:30:17,admin,10.0.0.8,"New York, US",Windows-10,SUCCESS
+2026-01-10 07:42:17,finance1,172.16.0.9,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-09 22:51:17,finance2,10.0.0.8,"Mexico City, MX",MacOS,SUCCESS
+2026-01-14 14:04:17,finance2,172.16.0.9,"Mexico City, MX",Android,SUCCESS
+2026-01-10 23:24:17,guest,10.0.0.8,"London, UK",Windows-10,SUCCESS
+2026-01-10 18:12:17,mvargas,192.168.1.10,"Salt Lake City, US",iPhone,FAILED
+2026-01-10 20:24:17,mvargas,198.51.100.23,"New York, US",Windows-10,SUCCESS
+2026-01-15 20:46:17,admin,172.16.0.9,"New York, US",iPhone,SUCCESS
+2026-01-13 21:02:17,admin,198.51.100.23,"Mexico City, MX",iPhone,SUCCESS
+2026-01-14 10:18:17,mvargas,172.16.0.9,Unknown,MacOS,SUCCESS
+2026-01-10 15:58:17,finance2,203.0.113.5,Unknown,Unknown,FAILED
+2026-01-14 00:03:17,guest,45.33.32.156,Unknown,Windows-10,FAILED
+2026-01-15 03:51:17,finance2,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-09 04:41:17,guest,172.16.0.9,"London, UK",Unknown,SUCCESS
+2026-01-10 14:40:17,finance2,192.168.1.10,"Berlin, DE",Linux,SUCCESS
+2026-01-10 22:11:17,finance1,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-14 15:01:17,finance2,172.16.0.9,"Berlin, DE",Windows-10,FAILED
+2026-01-13 01:14:17,helpdesk,172.16.0.9,Unknown,MacOS,SUCCESS
+2026-01-13 14:01:17,admin,198.51.100.23,"Berlin, DE",Linux,SUCCESS
+2026-01-13 05:14:17,rima,203.0.113.5,"New York, US",Unknown,FAILED
+2026-01-08 23:34:17,guest,172.16.0.9,"London, UK",iPhone,SUCCESS
+2026-01-15 07:16:17,admin,45.33.32.156,"London, UK",MacOS,SUCCESS
+2026-01-15 03:30:17,helpdesk,203.0.113.5,"Salt Lake City, US",Android,FAILED
+2026-01-09 11:04:17,rima,198.51.100.23,"Salt Lake City, US",Linux,SUCCESS
+2026-01-12 06:42:17,guest,45.33.32.156,"Mexico City, MX",Unknown,FAILED
+2026-01-09 22:13:17,guest,10.0.0.8,"Salt Lake City, US",Android,SUCCESS
+2026-01-10 05:26:17,guest,198.51.100.23,"Mexico City, MX",Unknown,FAILED
+2026-01-09 20:36:17,finance1,198.51.100.23,Unknown,iPhone,SUCCESS
+2026-01-14 13:15:17,finance2,172.16.0.9,"London, UK",MacOS,SUCCESS
+2026-01-11 20:53:17,admin,203.0.113.5,"New York, US",Linux,FAILED
+2026-01-14 22:18:17,helpdesk,45.33.32.156,Unknown,Unknown,FAILED
+2026-01-14 02:58:17,finance1,203.0.113.5,"Mexico City, MX",Unknown,FAILED
+2026-01-14 07:29:17,mvargas,192.168.1.10,Unknown,MacOS,FAILED
+2026-01-12 07:00:17,mvargas,45.33.32.156,"Berlin, DE",Unknown,FAILED
+2026-01-10 10:12:17,admin,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-14 16:40:17,mvargas,198.51.100.23,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-09 07:47:17,rima,198.51.100.23,"Berlin, DE",Android,FAILED
+2026-01-09 20:22:17,finance1,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-10 11:42:17,finance1,192.168.1.10,Unknown,MacOS,FAILED
+2026-01-11 21:28:17,admin,10.0.0.8,"New York, US",MacOS,SUCCESS
+2026-01-11 11:31:17,admin,203.0.113.5,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-15 21:45:17,admin,192.168.1.10,Unknown,Android,SUCCESS
+2026-01-13 23:31:17,rima,192.168.1.10,"Mexico City, MX",Android,FAILED
+2026-01-09 14:54:17,finance1,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-14 23:07:17,rima,203.0.113.5,"New York, US",Linux,FAILED
+2026-01-15 05:42:17,admin,198.51.100.23,"New York, US",MacOS,FAILED
+2026-01-14 06:37:17,helpdesk,203.0.113.5,"Berlin, DE",iPhone,SUCCESS
+2026-01-14 14:14:17,finance2,45.33.32.156,"London, UK",MacOS,SUCCESS
+2026-01-10 00:26:17,admin,198.51.100.23,"Salt Lake City, US",MacOS,SUCCESS
+2026-01-12 03:34:17,admin,198.51.100.23,"Berlin, DE",Linux,SUCCESS
+2026-01-09 06:13:17,admin,10.0.0.8,"Mexico City, MX",Windows-10,FAILED
+2026-01-14 02:42:17,finance1,203.0.113.5,"Berlin, DE",Unknown,FAILED
+2026-01-14 09:39:17,finance1,10.0.0.8,"Berlin, DE",Unknown,FAILED
+2026-01-13 00:47:17,rima,45.33.32.156,"New York, US",iPhone,SUCCESS
+2026-01-11 17:05:17,finance1,45.33.32.156,"Salt Lake City, US",Android,SUCCESS
+2026-01-15 05:26:17,mvargas,10.0.0.8,"Berlin, DE",Linux,FAILED
+2026-01-11 15:11:17,finance1,192.168.1.10,Unknown,iPhone,FAILED
+2026-01-11 03:08:17,finance1,45.33.32.156,Unknown,Unknown,SUCCESS
+2026-01-09 11:50:17,helpdesk,192.168.1.10,"London, UK",iPhone,FAILED
+2026-01-09 00:48:17,guest,198.51.100.23,"London, UK",Unknown,SUCCESS
+2026-01-10 23:45:17,mvargas,45.33.32.156,"New York, US",MacOS,FAILED
+2026-01-11 11:36:17,mvargas,10.0.0.8,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-14 19:10:17,admin,172.16.0.9,"Mexico City, MX",Android,FAILED
+2026-01-09 05:44:17,mvargas,45.33.32.156,Unknown,Android,SUCCESS
+2026-01-12 00:14:17,guest,10.0.0.8,"Mexico City, MX",iPhone,FAILED
+2026-01-09 04:25:17,mvargas,192.168.1.10,"Mexico City, MX",Linux,SUCCESS
+2026-01-13 07:35:17,rima,203.0.113.5,Unknown,iPhone,SUCCESS
+2026-01-13 00:25:17,admin,203.0.113.5,"Berlin, DE",MacOS,SUCCESS
+2026-01-10 15:48:17,rima,192.168.1.10,"Berlin, DE",Windows-10,SUCCESS
+2026-01-14 15:41:17,guest,45.33.32.156,"Salt Lake City, US",Linux,SUCCESS
+2026-01-14 04:55:17,guest,192.168.1.10,Unknown,Windows-10,SUCCESS
+2026-01-10 12:45:17,rima,192.168.1.10,"New York, US",iPhone,SUCCESS
+2026-01-09 23:40:17,finance2,198.51.100.23,"Berlin, DE",Android,SUCCESS
+2026-01-14 08:28:17,finance2,192.168.1.10,"New York, US",Unknown,FAILED
+2026-01-09 11:45:17,helpdesk,45.33.32.156,"New York, US",Windows-10,SUCCESS
+2026-01-10 23:48:17,rima,192.168.1.10,"London, UK",Windows-10,FAILED
+2026-01-09 22:39:17,admin,172.16.0.9,"Salt Lake City, US",Android,FAILED
+2026-01-09 18:39:17,guest,198.51.100.23,"New York, US",Unknown,SUCCESS
+2026-01-12 09:46:17,helpdesk,203.0.113.5,"Salt Lake City, US",Unknown,SUCCESS
+2026-01-10 19:43:17,guest,192.168.1.10,"Mexico City, MX",Windows-10,FAILED
+2026-01-10 17:09:17,finance2,172.16.0.9,"Salt Lake City, US",iPhone,SUCCESS
+2026-01-12 17:58:17,mvargas,192.168.1.10,"Berlin, DE",Unknown,FAILED
+2026-01-11 02:37:17,guest,198.51.100.23,"New York, US",MacOS,FAILED
+2026-01-13 20:43:17,admin,172.16.0.9,"Mexico City, MX",Windows-10,SUCCESS
+2026-01-14 05:56:17,mvargas,172.16.0.9,"New York, US",Unknown,SUCCESS
+2026-01-11 04:34:17,helpdesk,192.168.1.10,"Berlin, DE",Unknown,SUCCESS
+2026-01-13 01:53:17,admin,10.0.0.8,"London, UK",Unknown,FAILED
+2026-01-11 11:10:17,mvargas,198.51.100.23,"Mexico City, MX",Unknown,FAILED
+2026-01-09 17:16:17,rima,192.168.1.10,"Salt Lake City, US",Windows-10,SUCCESS
+2026-01-11 22:15:17,finance1,192.168.1.10,"Mexico City, MX",Linux,FAILED
+2026-01-11 19:29:17,rima,192.168.1.10,Unknown,Android,SUCCESS
+2026-01-14 00:42:17,admin,192.168.1.10,"Berlin, DE",Android,SUCCESS
+2026-01-09 16:43:17,helpdesk,198.51.100.23,"New York, US",Unknown,FAILED
+2026-01-11 00:52:17,guest,172.16.0.9,"Salt Lake City, US",Unknown,FAILED
+2026-01-09 18:51:17,mvargas,203.0.113.5,"New York, US",Windows-10,SUCCESS
+2026-01-11 23:39:17,admin,10.0.0.8,Unknown,iPhone,SUCCESS
+2026-01-12 02:01:17,rima,198.51.100.23,"Mexico City, MX",MacOS,SUCCESS
+2026-01-09 23:22:17,guest,172.16.0.9,"Mexico City, MX",MacOS,SUCCESS
+2026-01-10 16:49:17,finance1,203.0.113.5,Unknown,Windows-10,SUCCESS
+2026-01-13 06:19:17,mvargas,172.16.0.9,"New York, US",Windows-10,SUCCESS
+2026-01-12 22:57:17,mvargas,203.0.113.5,"Berlin, DE",iPhone,FAILED
+2026-01-15 07:03:17,finance2,45.33.32.156,"Mexico City, MX",Unknown,FAILED
+2026-01-15 08:54:17,guest,10.0.0.8,"London, UK",Linux,SUCCESS
+2026-01-12 18:31:17,rima,203.0.113.5,"London, UK",Linux,SUCCESS
+2026-01-11 11:10:17,guest,203.0.113.5,Unknown,Linux,SUCCESS
+2026-01-09 04:30:17,helpdesk,198.51.100.23,Unknown,Linux,SUCCESS
+2026-01-13 22:24:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:25:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:26:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:27:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:28:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:29:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:30:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:31:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:32:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:33:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:34:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:35:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:36:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:37:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:38:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:39:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:40:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:41:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:42:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:43:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:44:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:45:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:46:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:47:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:48:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:49:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:50:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:51:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:52:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:53:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:54:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:55:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:56:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:57:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:58:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 22:59:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:00:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:01:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:02:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:03:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:04:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:05:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:06:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:07:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:08:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:09:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:10:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:11:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:12:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:13:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:14:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:15:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:16:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:17:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:18:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:19:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:20:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:21:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:22:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:23:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:24:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:25:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:26:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:27:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:28:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:29:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:30:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:31:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:32:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:33:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:34:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:35:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:36:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:37:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:38:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:39:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:40:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:41:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:42:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:43:17,admin,45.33.32.156,Unknown,Linux,FAILED
+2026-01-13 23:45:17,admin,45.33.32.156,Unknown,Linux,SUCCESS
